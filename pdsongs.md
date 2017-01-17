@@ -2,6 +2,7 @@
 | Abbr | Game Title          | Systems | Release  |
 |:----:|---------------------|:-------:|:--------:|
 | PD1  | Project Diva        | PSP     | 2009 Jul |
+| PDA  | Project Diva Arcade | Arcade  | 2010 Jan |
 | PD2  | Project Diva 2nd    | PSP     | 2010 Jul |
 | PDE  | Project Diva Extend | PSP     | 2011 Nov |
 | PM1  | Project Mirai       | 3DS     | 2012 Mar |
@@ -11,13 +12,13 @@
 | PDX  | Project Diva X      | PSV/PS4 | 2016 Mar |
 
 
-| PDA | PD1 | PD2 | PDE | PM1 | PDF1 | PM2 | PDF2 | PDX | English (official/fan/localized)                                                                     | Romaji                        | Japanese     |
-|:---:|:---:|:---:|:---:|:---:|:----:|:---:|:----:|:---:|------------------------------------------------------------------------------------------------------|-------------------------------|--------------|
-|  FS |  Y  |     |     |     |      |     | OOTB |     | A Song of Wastelands, Forests, and Magic                                                             | Kouya to Mori to Mahou no Uta | 荒野と森と魔法の歌    |
-|  CT |     |     |     |     |      |     |      |     | Absolunote                                                                                           | Absolunote                    | Absolunote   |
-|  FS |     |     |     |     | OOTB |     |      |     | ACUTE                                                                                                | ACUTE                         | ACUTE        |
-|  CT |     |     |     |     |      |     |      |     | AFTER BURNER                                                                                         | AFTER BURNER                  | AFTER BURNER |
-|  FS |     | DLC |     |     |      |     |  DLC |     | Aikotoba [PDA] <br> Love Words [FAN] <br> Words of Love [LOC]                                        | Aikotoba                      | 愛言葉          |
-|  FS |     |     |     |     |      |     | OOTB |     | Akatsuki Arrival                                                                                     | Akatsuki Arrival              | アカツキアライヴァル   |
-|  CT |     |     |     |     |      |  ✔  |      |     | Arifureta Sekai Seifuku [PDA] <br> Mundane World Domination [PM2] <br> Common World Domination [FAN] | Arifureta Sekai Seifuku       | ありふれたせかいせいふく |
-|  FS |     |     |     |     | OOTB |     |      |     | Ashes to Ashes                                                                                       | Hai wa Hai ni                 | ハイハハイニ       |
+| Games          | English (official/fan/localized)                                                                     | Romaji                        | Japanese     |
+|----------------|------------------------------------------------------------------------------------------------------|-------------------------------|--------------|
+| PDA PD1 PDF2   | A Song of Wastelands, Forests, and Magic                                                             | Kouya to Mori to Mahou no Uta | 荒野と森と魔法の歌    |
+| PDA            | Absolunote                                                                                           | Absolunote                    | Absolunote   |
+| PDA PDF1       | ACUTE                                                                                                | ACUTE                         | ACUTE        |
+| PDA            | AFTER BURNER                                                                                         | AFTER BURNER                  | AFTER BURNER |
+| PDA PD2⁺ PDF2⁺ | Aikotoba [PDA] <br> Love Words [FAN] <br> Words of Love [LOC]                                        | Aikotoba                      | 愛言葉          |
+| PDA PDF2       | Akatsuki Arrival                                                                                     | Akatsuki Arrival              | アカツキアライヴァル   |
+| PDA PM2        | Arifureta Sekai Seifuku [PDA] <br> Mundane World Domination [PM2] <br> Common World Domination [FAN] | Arifureta Sekai Seifuku       | ありふれたせかいせいふく |
+| PDA PDF1       | Ashes to Ashes                                                                                       | Hai wa Hai ni                 | ハイハハイニ       |
