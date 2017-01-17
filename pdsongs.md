@@ -12,13 +12,13 @@
 | PDX  | Project Diva X      | PSV/PS4 | 2016 Mar |
 
 
-| Games              | English (official/fan/localized)                                                                     | Romaji                        | Japanese     |
-|--------------------|------------------------------------------------------------------------------------------------------|-------------------------------|--------------|
-| PDA<br>PD1<br>PDF2 | A Song of Wastelands, Forests, and Magic                                                             | Kouya to Mori to Mahou no Uta | 荒野と森と魔法の歌    |
-| PDA                | Absolunote                                                                                           | Absolunote                    | Absolunote   |
-| PDA<br>PDF1        | ACUTE                                                                                                | ACUTE                         | ACUTE        |
-| PDA                | AFTER BURNER                                                                                         | AFTER BURNER                  | AFTER BURNER |
-| PDA<br>PD2⁺ PDF2⁺  | Aikotoba [PDA] <br> Love Words [FAN] <br> Words of Love [LOC]                                        | Aikotoba                      | 愛言葉          |
-| PDA<br>PDF2        | Akatsuki Arrival                                                                                     | Akatsuki Arrival              | アカツキアライヴァル   |
-| PDA<br>PM2         | Arifureta Sekai Seifuku [PDA] <br> Mundane World Domination [PM2] <br> Common World Domination [FAN] | Arifureta Sekai Seifuku       | ありふれたせかいせいふく |
-| PDA<br>PDF1        | Ashes to Ashes                                                                                       | Hai wa Hai ni                 | ハイハハイニ       |
+| Games                 | English (official/fan/localized)                                                                     | Romaji                        | Japanese     |
+|-----------------------|------------------------------------------------------------------------------------------------------|-------------------------------|--------------|
+| PDA<br>PD1<br>PDF2    | A Song of Wastelands, Forests, and Magic                                                             | Kouya to Mori to Mahou no Uta | 荒野と森と魔法の歌    |
+| PDA                   | Absolunote                                                                                           | Absolunote                    | Absolunote   |
+| PDA<br>PDF1           | ACUTE                                                                                                | ACUTE                         | ACUTE        |
+| PDA                   | AFTER BURNER                                                                                         | AFTER BURNER                  | AFTER BURNER |
+| PDA<br>PD2⁺<br>PDF2⁺  | Aikotoba [PDA] <br> Love Words [FAN] <br> Words of Love [LOC]                                        | Aikotoba                      | 愛言葉          |
+| PDA<br>PDF2           | Akatsuki Arrival                                                                                     | Akatsuki Arrival              | アカツキアライヴァル   |
+| PDA<br>PM2            | Arifureta Sekai Seifuku [PDA] <br> Mundane World Domination [PM2] <br> Common World Domination [FAN] | Arifureta Sekai Seifuku       | ありふれたせかいせいふく |
+| PDA<br>PDF1           | Ashes to Ashes                                                                                       | Hai wa Hai ni                 | ハイハハイニ       |
