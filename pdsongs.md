@@ -1,271 +1,313 @@
 
 | Abbr | Game Title               | Systems | JP Release | NA Release |
 |:----:|--------------------------|:-------:|:----------:|:----------:|
-| PD1  | Project Diva             | PSP     |  2009 Jul  |            |
-| PDA  | Project Diva Arcade      | Arcade  |  2010 Jan  |            |
-| PD2  | Project Diva 2nd         | PSP     |  2010 Jul  |            |
-| PDE  | Project Diva Extend      | PSP     |  2011 Nov  |            |
-| PM1  | Project Mirai            | 3DS     |  2012 Mar  |            |
-| PDF1 | Project Diva F           | PSV/PS3 |  2012 Aug  |  2013 Aug  |
-| PM2  | Project Mirai 2          | 3DS     |  2013 Nov  |            |
-| PDF2 | Project Diva F 2nd       | PSV/PS3 |  2014 Mar  |  2014 Nov  |
-| PMDX | Project Mirai Deluxe/DX  | 3DS     |  2015 May  |  2015 Sep  |
-| PDX  | Project Diva X           | PSV/PS4 |  2016 Mar  |  2016 Aug  |
-| PDFT | Project Diva Future Tone | PS4     |  2016 Jun  |  2017 Jan  |
+|  D1  | Project Diva             | PSP     |  2009 Jul  |            |
+|  DA  | Project Diva Arcade      | Arcade  |  2010 Jan  |            |
+|  D2  | Project Diva 2nd         | PSP     |  2010 Jul  |            |
+|  DE  | Project Diva Extend      | PSP     |  2011 Nov  |            |
+|  M1  | Project Mirai            | 3DS     |  2012 Mar  |            |
+|  F1  | Project Diva F           | PSV/PS3 |  2012 Aug  |  2013 Aug  |
+|  M2  | Project Mirai 2          | 3DS     |  2013 Nov  |            |
+|  F2  | Project Diva F 2nd       | PSV/PS3 |  2014 Mar  |  2014 Nov  |
+|  MD  | Project Mirai Deluxe/DX  | 3DS     |  2015 May  |  2015 Sep  |
+|  DX  | Project Diva X           | PSV/PS4 |  2016 Mar  |  2016 Aug  |
+|  FT  | Project Diva Future Tone | PS4     |  2016 Jun  |  2017 Jan  |
 
 Notes:
 - In the case of staggered releases on multiple systems, the listed release date reflects the earliest release.
 - Project Mirai 2 includes all the songs from Project Mirai 1.
 - Project Mirai Deluxe is an updated version of Project Mirai 2.
 - Future Tone is the name given to the update of Project Diva Arcade that introduced the slide bar.  For purposes here, "Arcade" will refer to the arcade and "Future Tone" will refer to the home port on the PS4.
+- Titles should follow "Casing of Titles" according to the Chicago Manual of Style.  Exceptions are allowed and should be tagged with [sic].
+-- ALL-UPPERCASE TITLES
+-- all-lowercase titles
+-- Title Case, All-Uppercase, and All-Lowercase can change inside parentheses, brackets, or dashes.
 
-| Games                | English (official/fan/localized)                                                                       | Romaji                        | Japanese                            |
-|----------------------|--------------------------------------------------------------------------------------------------------|-------------------------------|-------------------------------------|
-| PDA<br>PD1<br>PDF2   | A Song of Wastelands, Forests, and Magic                                                               | Kouya to Mori to Mahou no Uta | 荒野と森と魔法の歌                    |
-| PDA                  | Absolunote                                                                                             | Absolunote                    | Absolunote                   |
-| PDA<br>PDF1          | ACUTE                                                                                                  | ACUTE                         | ACUTE                        |
-| PDA<br>PM2           | Adolescence                                                                                            | Adoresansu                    | アドレサンス                       |
-| PDA<br>PM2           | Ageage Again                                                                                           | Ageage Agein                  | アゲアゲアゲイン                     |
-| PDA                  | AFTER BURNER                                                                                           | AFTER BURNER                  | AFTER BURNER                 |
-| PDA<br>PD2⁺<br>PDF2⁺ | Aikotoba [PDFT/PDF2] <br> Love Words [FAN] <br> Words of Love [LOC]                                    | Aikotoba                      | 愛言葉                          |
-| PDA<br>PDF2          | Akatsuki Arrival                                                                                       | Akatsuki Arrival              | アカツキアライヴァル                   |
-| PM1                  | Aku no Musume                                                                                          | Aku no Musume                 | 悪ノ娘                          |
-| PM1                  | Aku no Meshitsukai                                                                                     | Aku no Meshitsukai            | 悪ノ召使                         |
-| PM2                  | Amatsu Kitsune                                                                                         | Amatsu Kitsune                | アマツキツネ                       |
-| PM1                  | Animal Fortune-Telling                                                                                 | Doubutsu Uranai               | どうぶつ占い                       |
-| PDA<br>PM2           | Arifureta Sekai Seifuku [PDFT] <br> Mundane World Domination [PMDX] <br> Common World Domination [FAN] | Arifureta Sekai Seifuku       | ありふれたせかいせいふく                 |
-| PDA<br>PDF1          | Ashes to Ashes                                                                                         | Hai wa Hai ni                 | ハイハハイニ                       |
-| PDA                  | Betty The Liar                                                                                         |                               |                              |
-| PDA                  | Beware of the Miku Miku Germs♪                                                                         |                               |                              |
-| PDA                  | Black Gold                                                                                             |                               |                              |
-| PDA                  | Black★Rock Shooter                                                                                     |                               |                              |
-| PDA                  | Blackjack                                                                                              |                               |                              |
-| PDA                  | break;down                                                                                             |                               |                              |
-| PDA                  | Break It, Break It!                                                                                    |                               |                              |
-| PDA                  | Butterfly on Your Right Shoulder                                                                       |                               |                              |
-| PDA                  | Butterfly on Your Right Shoulder -39's Giving Day Edition-                                             |                               |                              |
-| PDA                  | Cantarella                                                                                             |                               |                              |
-| PDA                  | Cat Food                                                                                               |                               |                              |
-| PDA<br>PM2           | Cendrillon                                                                                             | Sandoriyon                    | サンドリヨン                       |
-| PDA                  | Change Me                                                                                              |                               |                              |
-| PDA                  | Close and Open, Demons and The Dead [sic]                                                              |                               |                              |
-| PDA<br>PM1           | Clover♣Club                                                                                            | Kuroobaa♣Kurabu               | クローバー♣クラブ                    |
-| PDA                  | Colorful ⨯ Melody                                                                                      |                               |                              |
-| PDA                  | Colorful ⨯ Sexy                                                                                        |                               |                              |
-| PDA                  | Continuing Dream                                                                                       |                               |                              |
-| PDA                  | Dance of Many                                                                                          |                               |                              |
-| PDA                  | Dear                                                                                                   |                               |                              |
-| PDA                  | Dear cocoa girls [sic]                                                                                 |                               |                              |
-| PDA                  | Decorator                                                                                              |                               |                              |
-| PDA                  | Deep Sea City Underground                                                                              |                               |                              |
-| PDA<br>PM1           | Deep Sea Girl                                                                                          | Shinkai Shoujo                | 深海少女                         |
-| PDA                  | Denparadigm                                                                                            |                               |                              |
-| PDA                  | Disruptive Diva                                                                                        |                               |                              |
-| PM2                  | Doremifa Rondo                                                                                         | Doremifa Rondo                | ドレミファロンド                     |
-| PDA                  | Double Lariat                                                                                          |                               |                              |
-| PDA                  | Doubleganger                                                                                           |                               |                              |
-| PDA                  | Dream-Eating Monochrom Baku                                                                            |                               |                              |
-| PDA                  | Dreaming Leaf                                                                                          |                               |                              |
-| PDA                  | DYE                                                                                                    |                               |                              |
-| PDA<br>PM2           | Electric Angel                                                                                         | Erekutorikku Enjeu            | えれくとりっく・えんじぇぅ                |
-| PM2                  | Electric Love                                                                                          | Erekutorikku Rabu             | エレクトリック・ラブ                   |
-| PDA                  | Electrosaturator                                                                                       |                               |                              |
-| PDA                  | Envy Cat Walk                                                                                          |                               |                              |
-| PDA                  | Equation+∗∗                                                                                            |                               |                              |
-| PDA                  | Erase or Zero                                                                                          |                               |                              |
-| PDA                  | Far Away                                                                                               |                               |                              |
-| PDA<br>PM1           | Finder (DSLR remix - re:edit)                                                                          | Faindaa (DSLR remix- re:edit) | ファインダー(DSLR remix - re:edit) |
-| PDA                  | Fire⊚Flower                                                                                            |                               |                              |
-| PDA                  | Francisca                                                                                              |                               |                              |
-| PDA                  | Freely Tomorrow                                                                                        |                               |                              |
-| PDA                  | from Y to Y [sic]                                                                                      |                               |                              |
-| PDA                  | Gemini                                                                                                 |                               |                              |
-| PDA                  | Gigantic Girl                                                                                          |                               |                              |
-| PDA                  | Gizmo                                                                                                  |                               |                              |
-| PDA                  | Glasses                                                                                                |                               |                              |
-| PDA                  | Glory 3usi9                                                                                            |                               |                              |
-| PM2                  | glow                                                                                                   | glow                          | glow                         |
-| PDA                  | God-Tier Tune                                                                                          |                               |                              |
-| PDA                  | Gothic and Loneliness ~I'm the very DIVA~ [sic]                                                        |                               |                              |
-| PDA                  | Grumpy Waltz                                                                                           |                               |                              |
-| PDA                  | Hanamai Tsukuyomi Tan                                                                                  |                               |                              |
-| PDA                  | Hand In Hand                                                                                           |                               |                              |
-| PM1                  | Happy Synthesizer                                                                                      | Happii Shinsesaiza            | ハッピーシンセサイザ                   |
-| PM1                  | Hello/How are you?                                                                                     | Haro/Hawayu                   | ハロ/ハワユ                       |
-| PDA                  | Hello, Worker                                                                                          |                               |                              |
-| PDA<br>PM2           | Hello, Planet.                                                                                         | ∗Haroo, Puranetto.            | ＊ハロー、プラネット。                  |
-| PDA                  | Here Comes Karakasa-san                                                                                |                               |                              |
-| PDA                  | High School Days - DIVA EDIT                                                                           |                               |                              |
-| PDA                  | Hm? Ah, Yes.                                                                                           |                               |                              |
-| PDA                  | Holy Star -2010 DIVA mix-                                                                              |                               |                              |
-| PDA                  | How'd It Get To Be Like This? [PDFT] <br> How Did This Happen? [FAN]                                   |                               |                              |
-| PDA                  | I'll Miku-Miku You♪ (For Reals)                                                                        |                               |                              |
-| PDA                  | I'm Your Diva                                                                                          |                               |                              |
-| PDA                  | I Really Do Understand                                                                                 |                               |                              |
-| PDA                  | Idol Radio (Game Edit)                                                                                 |                               |                              |
-| PDA                  | Ievan Polkka                                                                                           |                               |                              |
-| PDA                  | Innocence                                                                                              |                               |                              |
-| PDA<br>PM2           | Interviewer                                                                                            | Intabyuaa                     | インタビュアー                      |
-| PM2                  | Invisible                                                                                              | Inbijiburu                    | インビジブル                       |
-| PDA                  | Iroha Uta                                                                                              |                               |                              |
-| PDA                  | Iya Iya Seijin                                                                                         |                               |                              |
-| PDA                  | Jaded                                                                                                  |                               |                              |
-| PDA                  | Jegemu Sequencer                                                                                       |                               |                              |
-| PDA                  | Just Be Friends                                                                                        |                               |                              |
-| PDA                  | Karakuri Pierrot [PDFT] <br> Clockwork Clown [PDF2] <br> Clown's Trick [LOC]                           |                               |                              |
-| PDA                  | Kimi Ni                                                                                                |                               |                              |
-| PDA                  | Kipple Industry, Inc.                                                                                  |                               |                              |
-| PDA                  | Knife                                                                                                  |                               |                              |
-| PDA                  | Knight of Light                                                                                        |                               |                              |
-| PDA                  | Kokoro                                                                                                 |                               | ココロ                          |
-| PM2                  | KONEKO NO PAYAPAYA                                                                                     | KONEKO NO PAYAPAYA            | 子猫のパヤパヤ                      |
-| PDA                  | Last Night, Good Night                                                                                 |                               |                              |
-| PDA                  | Leia                                                                                                   |                               |                              |
-| PDA                  | Let Me Lose Myself in The Black Note [sic]                                                             |                               |                              |
-| PDA                  | LIKE THE WIND                                                                                          |                               |                              |
-| PDA<br>PM1           | LOL -lots of laugh-                                                                                    | LOL -lots of laugh-           | LOL -lots of laugh-          |
-| PDA                  | Look This Way, Baby                                                                                    |                               |                              |
-| PDA                  | Love-Colored Ward                                                                                      |                               |                              |
-| PDA                  | Love-Hate                                                                                              |                               |                              |
-| PDA                  | Love is War                                                                                            |                               |                              |
-| PDA                  | Love's note [sic]                                                                                      |                               |                              |
-| PDA                  | Lover's Suicide Oblivion                                                                               |                               |                              |
-| PDA                  | Lucid Dreaming                                                                                         |                               |                              |
-| PDA                  | Luka Luka ★ Night Fever                                                                                |                               |                              |
-| PDA                  | Magical Sound Shower                                                                                   |                               |                              |
-| PDA                  | Magnet                                                                                                 |                               |                              |
-| PDA                  | maigo life                                                                                             |                               |                              |
-| PDA                  | Marginal                                                                                               |                               |                              |
-| PDA                  | Master of Puppets                                                                                      |                               |                              |
-| PM1                  | Matryoshka                                                                                             | Matryoshka                    | マトリョシカ                       |
-| PDA                  | Meiteki Cybernetics                                                                                    |                               |                              |
-| PDA<br>PM1           | Melancholic                                                                                            | Merankorikku                  | メランコリック                      |
-| PDA                  | Mellow Yellow                                                                                          |                               |                              |
-| PDA                  | meoldy...                                                                                              |                               |                              |
-| PDA                  | Melt                                                                                                   |                               |                              |
-| PDA                  | Meteor                                                                                                 |                               |                              |
-| PDA                  | Miracle Paint                                                                                          |                               |                              |
-| PDA                  | Monochrome∞Blue Sky                                                                                    |                               |                              |
-| PDA                  | moon                                                                                                   |                               |                              |
-| PDA<br>PM1           | Mousou Sketch [PM1/PDFT] <br> Delusion Sketch [FAN]                                                    |                               | 妄想スケッチ                       |
-| PDA                  | Negaposi∗Continues                                                                                     |                               |                              |
-| PDA                  | NekoMimi Archive                                                                                       |                               |                              |
-| PDA                  | NekoMimi Switch                                                                                        |                               |                              |
-| PDA<br>PMDX          | Nice To Meet You, Mr. Earthling                                                                        | Hajimemashite Chikyuujin-san  | はじめまして地球人さん                  |
-| PDA                  | Nightmare ☆ Party Night                                                                                |                               |                              |
-| PDA<br>PM1           | No Logic                                                                                               | No Logic                      | No Logic                     |
-| PDA                  | Nostalogic                                                                                             |                               |                              |
-| PDA                  | Now Choose                                                                                             |                               |                              |
-| PDA                  | Nyanyanyanyanyanyanya!                                                                                 |                               |                              |
-| PDA                  | Odds & Ends                                                                                            |                               |                              |
-| PDA                  | Oha-Yo-Del!!                                                                                           |                               |                              |
-| PDA<br>PM1           | On The Rocks [PDFT] <br> on the rocks [PM1]                                                            | On The Rocks                  | On The Rocks                 |
-| PDA                  | One-Sided Love Samba                                                                                   |                               |                              |
-| PDA                  | Out of Eden                                                                                            |                               |                              |
-| PDA                  | Packaged                                                                                               |                               |                              |
-| PDA                  | Palette                                                                                                |                               |                              |
-| PDA                  | Pane dhiria                                                                                            |                               |                              |
-| PDA                  | Paradichlorobenzene                                                                                    |                               |                              |
-| PDA                  | Paris Cinema Girl                                                                                      |                               |                              |
-| PDA                  | Perico Space Shipper                                                                                   |                               |                              |
-| PDA<br>PM1           | PIANO∗GIRL                                                                                             | PIANO∗GIRL                    | PIANO∗GIRL                   |
-| PM2                  | Piano x Forte x Scandal                                                                                | Piano x Forute x Sukyandaru   | ピアノxフォルテxスキャンダル              |
-| PDA                  | Pink Moon                                                                                              |                               |                              |
-| PDA                  | Pinky Swear                                                                                            |                               |                              |
-| PDA                  | Po Pi Po                                                                                               |                               |                              |
-| PDA                  | Promise                                                                                                |                               |                              |
-| PDA                  | Puzzle                                                                                                 |                               |                              |
-| PDA                  | Quartet of Multiple Futures -Quartet Theme-                                                            |                               |                              |
-| PDA                  | Rain With A Chance of Sweet∗Drops [sic]                                                                |                               |                              |
-| PDA                  | Remote Controller                                                                                      |                               |                              |
-| PDA                  | Requiem for the Phantasma                                                                              |                               |                              |
-| PM1                  | reverse rainbow                                                                                        | Sakasama Reinboo              | 逆さまレインボー                     |
-| PDA                  | Rin-chan Now!                                                                                          |                               |                              |
-| PDA                  | RinRin Signal -Append Mix-                                                                             |                               |                              |
-| PDA                  | Rolling Girl                                                                                           |                               |                              |
-| PDA<br>PM2           | Romeo and Cinderella                                                                                   | Romio to Shinderera           | ロミオとシンデレラ                    |
-| PDA                  | Rosary Pale                                                                                            |                               |                              |
-| PDA                  | Roshin Yukai                                                                                           |                               |                              |
-| PDA                  | Sadistic.Music∞Factory                                                                                 |                               |                              |
-| PDA                  | Saihate                                                                                                |                               |                              |
-| PDA                  | Sakura no Ame                                                                                          |                               |                              |
-| PDA                  | Sayonara, Goodbye                                                                                      |                               |                              |
-| PDA                  | Secret Police                                                                                          |                               |                              |
-| PDA                  | Sekiranun Grafiti                                                                                      |                               |                              |
-| PDA<br>PM2           | Senbonzakura                                                                                           | Senbonzakura                  | 千本桜                          |
-| PDA<br>PM2           | Shake It!                                                                                              |                               |                              |
-| PDA<br>PM1           | SING&SMILE                                                                                             | SING&SMILE                    | SING&SMILE                   |
-| PDA<br>PM2           | Skeleton Orchesta and Lillia                                                                           | Gaikotsu Gakudan to Lilia     | 骸骨楽団とリリア                     |
-| PDA                  | slump                                                                                                  |                               |                              |
-| PDA<br>PM2           | Snowman                                                                                                | Sunooman                      | スノーマン                        |
-| PDA                  | So Much Loving You★ - DIVA Edit-                                                                       |                               |                              |
-| PDA                  | Soiyassa!!                                                                                             |                               |                              |
-| PDA                  | Solitude's End                                                                                         |                               |                              |
-| PDA                  | Solitude's End -extend edition-                                                                        |                               |                              |
-| PDA                  | Song of Eternity -DIVAMIX-                                                                             |                               |                              |
-| PDA                  | Song of Life                                                                                           |                               |                              |
-| PDA                  | Sound                                                                                                  |                               |                              |
-| PDA                  | Soundless Voice                                                                                        |                               |                              |
-| PDA                  | SPiCa -39's Giving Day Edition-                                                                        |                               |                              |
-| PDA                  | Star Story                                                                                             |                               |                              |
-| PDA                  | Stardust Utopia                                                                                        |                               |                              |
-| PDA                  | Starduster                                                                                             |                               |                              |
-| PDA                  | StargazeR                                                                                              |                               |                              |
-| PDA                  | Starlite★Lydian                                                                                        |                               |                              |
-| PDA                  | Stay with me                                                                                           |                               |                              |
-| PDA                  | Step Forward                                                                                           |                               |                              |
-| PDA                  | Strobe Nights                                                                                          |                               |                              |
-| PDA                  | Summer Idol                                                                                            |                               |                              |
-| PDA                  | Sweet Devil                                                                                            |                               |                              |
-| PDA<br>PM2           | Sweet Magic                                                                                            | Suiito Majikku                | スイートマジック                     |
-| PDA                  | SYMPHONIC DIVE - DIVA FT edit -                                                                        |                               |                              |
-| PDA                  | Systematic Love                                                                                        |                               |                              |
-| PDA                  | Tell Your World                                                                                        |                               |                              |
-| PDA                  | Tengaku                                                                                                |                               |                              |
-| PDA<br>PM2           | Terekakushi Shishunki                                                                                  | Terekakushi Shishunki         | テレカクシ思春期                     |
-| PDA                  | That One Second in Slow Motion                                                                         |                               |                              |
-| PDA                  | The Disappearance of Hatsune Miku                                                                      |                               |                              |
-| PDA                  | The First Sound                                                                                        |                               |                              |
-| PDA                  | The Intense Voice of Hatsune Miku                                                                      |                               |                              |
-| PDA                  | The MMORPG Addict's Theme                                                                              |                               |                              |
-| PDA                  | The secret garden                                                                                      |                               |                              |
-| PDA                  | The Snow White Princess is...                                                                          |                               |                              |
-| PDA                  | The Star Maker                                                                                         |                               |                              |
-| PDA                  | The Two of Us - Futaride                                                                               |                               |                              |
-| PDA<br>PM2           | The World is Mine                                                                                      | Waarudo Izu Main              | ワールドイズマイン                    |
-| PDA                  | This is the Happiness and Peace of Mind Committee                                                      |                               |                              |
-| PDA                  | Though My Song Has No Form                                                                             |                               |                              |
-| PDA                  | Thousand Year Solo (DIVA Edit)                                                                         |                               |                              |
-| PDA                  | Time Limit                                                                                             |                               |                              |
-| PDA                  | Time Machine                                                                                           |                               |                              |
-| PDA                  | To the End of Inifinity                                                                                |                               |                              |
-| PDA                  | Tokyo Teddy Bear                                                                                       |                               |                              |
-| PDA                  | Torinokocity [PDFT] <br> Urbandonment [PDF1]                                                           |                               |                              |
-| PDA                  | Transparent Watercolors                                                                                |                               |                              |
-| PDA                  | Travel to The Other Side of The Moon [sic]                                                             |                               |                              |
-| PDA<br>PM1           | Tricolore Airline                                                                                      | Torikorooru Ea Rain           | トリコロール・エア・ライン                |
-| PDA                  | Two Breaths Walking                                                                                    |                               |                              |
-| PDA                  | Two-Sided Lovers                                                                                       |                               |                              |
-| PDA                  | Unhappy Refrain                                                                                        |                               |                              |
-| PDA                  | Updating My Love List?                                                                                 |                               |                              |
-| PDA                  | Velvet Arabesque                                                                                       |                               |                              |
-| PDA                  | VOC@LOID in Love                                                                                       |                               |                              |
-| PDA                  | VOiCE -DIVA MIX-                                                                                       |                               |                              |
-| PM1                  | Watashi no jikan                                                                                       | Watashi no jikan              | 私の時間                         |
-| PDA                  | Weekender Girl                                                                                         |                               |                              |
-| PDA                  | What Do You Mean!?                                                                                     |                               |                              |
-| PDA                  | When First Love Ends                                                                                   |                               |                              |
-| PDA                  | White Dove                                                                                             |                               |                              |
-| PDA                  | Wintry Winds                                                                                           |                               |                              |
-| PDA                  | Wolf Girl                                                                                              |                               |                              |
-| PDA                  | World's End Dance Hall -Live Dance Edition-                                                            |                               |                              |
-| PDA                  | World's End Umbrella                                                                                   |                               |                              |
-| PDA                  | Yellow                                                                                                 |                               |                              |
-| PDA<br>PM1           | Your Body Temperature                                                                                  | Kimi no Taion                 | 君の体温                         |
-| PDA<br>PM1           | Yumeyume                                                                                               |                               | ゆめゆめ                         |
-| PDA                  | ZIGG-ZAGG                                                                                              |                               |                              |
-| PM2<br>PDX           | 1 2 Fanclub                                                                                            | Ii Aru Fankurabu              | いーあるふぁんくらぶ                   |
-| PDA<br>PM2           | 1/6 -out of the gravity-                                                                               | 1/6 -out of the gravity-      | 1/6 -out of the gravity-     |
-| PDA<br>PM2           | 1925                                                                                                   | 1925                          | 1925                         |
-| PDA                  | 2D Dream Fever                                                                                         |                               |                              |
-| PDA                  | 39                                                                                                     |                               |                              |
+Annotations:
+- Superscript D indicates song available as DLC
+- Superscript M indicates song included partially in a medley (DX)
+
+| Games                        | English (official/fan/localized)                                                                   | Romaji                                                  | Japanese                            |
+|------------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------|
+| DA<br>D1<br>F2               | A Song of Wastelands, Forests, and Magic                                                           | Kouya to Mori to Mahou no Uta                           | 荒野と森と魔法の歌                    |
+| DX                           | A Single Red Leaf [DX] <br> Crimson Leaf [FAN]                                                     | Akahitoha                                               | 紅一葉                          |
+| DA                           | Absolunote                                                                                         | Absolunote                                              | Absolunote                   |
+| DA<br>F1                     | ACUTE [sic]                                                                                        | ACUTE                                                   | ACUTE                        |
+| DA<br>M2                     | Adolescence                                                                                        | Adoresansu                                              | アドレサンス                       |
+| DA<br>M2<br>DXᴹ              | Ageage Again                                                                                       | Ageage Agein                                            | アゲアゲアゲイン                     |
+| DA                           | AFTER BURNER [sic]                                                                                 | AFTER BURNER                                            | AFTER BURNER                 |
+| DX                           | Ai Dee [DX] <br> Identity [FAN]                                                                    | Ai Dee                                                  | 愛Dee                         |
+| DA<br>D2ᴰ<br>F2ᴰ             | Aikotoba [FT/F2] <br> Love Words [FAN] <br> Words of Love [LOC]                                    | Aikotoba                                                | 愛言葉                          |
+| DA<br>F2                     | Akatsuki Arrival                                                                                   | Akatsuki Arrival                                        | アカツキアライヴァル                   |
+| M1                           | Aku no Musume                                                                                      | Aku no Musume                                           | 悪ノ娘                          |
+| M1                           | Aku no Meshitsukai                                                                                 | Aku no Meshitsukai                                      | 悪ノ召使                         |
+| M2                           | Amatsu Kitsune                                                                                     | Amatsu Kitsune                                          | アマツキツネ                       |
+| DX                           | Amazing Dolce                                                                                      | Amazing Dolce                                           | Amazing Dolce                |
+| M1                           | Animal Fortune-Telling                                                                             | Doubutsu Uranai                                         | どうぶつ占い                       |
+| DA<br>M2                     | Arifureta Sekai Seifuku [FT] <br> Mundane World Domination [MD] <br> Common World Domination [FAN] | Arifureta Sekai Seifuku                                 | ありふれたせかいせいふく                 |
+| DA<br>F1                     | Ashes to Ashes                                                                                     | Hai wa Hai ni                                           | ハイハハイニ                       |
+| DX                           | Babylon                                                                                            | Babiron                                                 | バビロン                         |
+| DA                           | Betty The Liar                                                                                     |                                                         |                              |
+| DA                           | Beware of the Miku Miku Germs♪                                                                     |                                                         |                              |
+| DA                           | Black Gold                                                                                         |                                                         |                              |
+| DA                           | Black★Rock Shooter                                                                                 |                                                         |                              |
+| DA                           | Blackjack                                                                                          |                                                         |                              |
+| DXᴹ                          | BLOOMING THE IDOL [sic]                                                                            | Idol wo Sakase                                          | アイドルを咲かせ                     |
+| DX                           | Brain Revolution Girl                                                                              | Nounai Kakumei Gaaru                                    | 脳内革命ガール                      |
+| DA                           | break;down [sic]                                                                                   |                                                         |                              |
+| DA                           | Break It, Break It!                                                                                |                                                         |                              |
+| DA                           | Butterfly on Your Right Shoulder                                                                   |                                                         |                              |
+| DA                           | Butterfly on Your Right Shoulder -39's Giving Day Edition-                                         |                                                         |                              |
+| DX                           | Calc.                                                                                              | Calc.                                                   | Calc.                        |
+| DA                           | Cantarella                                                                                         |                                                         |                              |
+| DA                           | Cat Food                                                                                           |                                                         |                              |
+| DA<br>M2                     | Cendrillon                                                                                         | Sandoriyon                                              | サンドリヨン                       |
+| DXᴹ                          | Chaining Intention                                                                                 | Chaining Intention                                      | Chaining Intention           |
+| DA                           | Change Me                                                                                          |                                                         |                              |
+| DA                           | Close and Open, Demons and The Dead                                                                |                                                         |                              |
+| DA<br>M1                     | Clover♣Club                                                                                        | Kuroobaa♣Kurabu                                         | クローバー♣クラブ                    |
+| DA                           | Colorful ⨯ Melody                                                                                  |                                                         |                              |
+| DA                           | Colorful ⨯ Sexy                                                                                    |                                                         |                              |
+| DA                           | Continuing Dream                                                                                   |                                                         |                              |
+| DA                           | Dance of Many                                                                                      |                                                         |                              |
+| DA                           | Dear                                                                                               |                                                         |                              |
+| DA                           | Dear cocoa girls                                                                                   |                                                         |                              |
+| DA                           | Decorator                                                                                          |                                                         |                              |
+| DA                           | Deep Sea City Underground                                                                          |                                                         |                              |
+| DA<br>M1                     | Deep Sea Girl                                                                                      | Shinkai Shoujo                                          | 深海少女                         |
+| DA                           | Denparadigm                                                                                        |                                                         |                              |
+| DXᴹ                          | Dependence Intension                                                                               | Dependence Intension                                    | Dependence Intension         |
+| DA                           | Disruptive Diva                                                                                    |                                                         |                              |
+| DXᴹ                          | Don't "My List" Me!                                                                                | Mairisu Dame!                                           | マイリスダメー！                     |
+| M2                           | Doremifa Rondo                                                                                     | Doremifa Rondo                                          | ドレミファロンド                     |
+| DA                           | Double Lariat                                                                                      |                                                         |                              |
+| DA                           | Doubleganger                                                                                       |                                                         |                              |
+| DA                           | Dream-Eating Monochrom Baku                                                                        |                                                         |                              |
+| DA<br>DXᴹ                    | Dreaming Leaf                                                                                      |                                                         |                              |
+| DA                           | DYE [sic]                                                                                          |                                                         |                              |
+| DXᴹ                          | EAZY DANCE [sic]                                                                                   | Iijii Densu                                             | イージーデンス                      |
+| DA<br>M2                     | Electric Angel                                                                                     | Erekutorikku Enjeu                                      | えれくとりっく・えんじぇぅ                |
+| M2                           | Electric Love                                                                                      | Erekutorikku Rabu                                       | エレクトリック・ラブ                   |
+| DA                           | Electrosaturator                                                                                   |                                                         |                              |
+| DA                           | Envy Cat Walk                                                                                      |                                                         |                              |
+| DA                           | Equation+∗∗                                                                                        |                                                         |                              |
+| DA                           | Erase or Zero                                                                                      |                                                         |                              |
+| DX                           | Even a Kunoichi Needs Love [DX] <br> Even as a Female Ninja, I Want to Love [FAN]                  | Kunoichi Demo Koi ga Shitai                             | クノイチでも恋がしたい                  |
+| DA                           | Far Away                                                                                           |                                                         |                              |
+| DA<br>M1                     | Finder (DSLR remix - re:edit) [sic]                                                                | Faindaa (DSLR remix- re:edit)                           | ファインダー(DSLR remix - re:edit) |
+| DA                           | Fire⊚Flower                                                                                        |                                                         |                              |
+| DA                           | Francisca                                                                                          |                                                         |                              |
+| DA<br>DXᴹ                    | Freely Tomorrow [FT] <br> FREELY TOMORROW [F1/DX]                                                  |                                                         |                              |
+| DA                           | from Y to Y [sic]                                                                                  |                                                         |                              |
+| DA                           | Gemini                                                                                             |                                                         |                              |
+| DA                           | Gigantic Girl                                                                                      |                                                         |                              |
+| DXᴹ                          | Gigantic O.T.N. [DX] <br> Gigantic P.N.S [FAN]                                                     | Gigantikku O.T.N                                        | ギガンティックO.T.N                 |
+| DA                           | Gizmo                                                                                              |                                                         |                              |
+| DA                           | Glasses                                                                                            |                                                         |                              |
+| DA                           | Glory 3usi9                                                                                        |                                                         |                              |
+| M2                           | glow [sic]                                                                                         | glow                                                    | glow                         |
+| DA                           | God-Tier Tune                                                                                      |                                                         |                              |
+| DA                           | Gothic and Loneliness ~I'm the Very DIVA~ [sic]                                                    |                                                         |                              |
+| DA<br>DXᴹ                    | Grumpy Waltz                                                                                       |                                                         |                              |
+| DA                           | Hanamai Tsukuyomi Tan                                                                              |                                                         |                              |
+| DA                           | Hand In Hand                                                                                       |                                                         |                              |
+| M1                           | Happy Synthesizer                                                                                  | Happii Shinsesaiza                                      | ハッピーシンセサイザ                   |
+| M1                           | Hello/How are you?                                                                                 | Haro/Hawayu                                             | ハロ/ハワユ                       |
+| DA                           | Hello, Worker                                                                                      |                                                         |                              |
+| DA<br>M2                     | Hello, Planet.                                                                                     | ∗Haroo, Puranetto.                                      | ＊ハロー、プラネット。                  |
+| DA                           | Here Comes Karakasa-san                                                                            |                                                         |                              |
+| DA                           | High School Days - DIVA EDIT [sic]                                                                 |                                                         |                              |
+| DA                           | Hm? Ah, Yes.                                                                                       |                                                         |                              |
+| DX                           | Holy Lance Explosion Boy                                                                           | Seisou Bakuretsu Booi                                   | 聖槍爆裂ボーイ                      |
+| DA                           | Holy Star -2010 DIVA mix- [sic]                                                                    |                                                         |                              |
+| DX                           | Humorous Dream of Mrs. Pumpkin [DX] <br> Mrs. Pumpkin's Comical Dream [FAN]                        | Mrs. Pumpkin no Kokkei na Yume                          | Mrs.Pumpkinの滑稽な夢             |
+| DA                           | How'd It Get To Be Like This? [FT] <br> How Did This Happen? [FAN]                                 |                                                         |                              |
+| DA                           | I'll Miku-Miku You♪ (For Reals)                                                                    |                                                         |                              |
+| DA                           | I'm Your Diva                                                                                      |                                                         |                              |
+| DA                           | I Really Do Understand                                                                             |                                                         |                              |
+| DA                           | Idol Radio (Game Edit)                                                                             |                                                         |                              |
+| DA                           | Ievan Polkka                                                                                       |                                                         |                              |
+| DA                           | Innocence                                                                                          |                                                         |                              |
+| DA<br>M2                     | Interviewer                                                                                        | Intabyuaa                                               | インタビュアー                      |
+| M2                           | Invisible                                                                                          | Inbijiburu                                              | インビジブル                       |
+| DA                           | Iroha Uta                                                                                          |                                                         |                              |
+| DA                           | Iya Iya Seijin                                                                                     |                                                         |                              |
+| DA                           | Jaded                                                                                              |                                                         |                              |
+| DA                           | Jegemu Sequencer                                                                                   |                                                         |                              |
+| DA                           | Just Be Friends                                                                                    |                                                         |                              |
+| DA                           | Karakuri Pierrot [FT] <br> Clockwork Clown [F2] <br> Clown's Trick [LOC]                           |                                                         |                              |
+| DXᴹ                          | Kiddie War [DX] <br> Childish War [FAN]                                                            | Okochama Sensou                                         | おこちゃま戦争                      |
+| DA                           | Kimi Ni                                                                                            |                                                         |                              |
+| DA                           | Kipple Industry, Inc.                                                                              |                                                         |                              |
+| DA                           | Knife                                                                                              |                                                         |                              |
+| DA                           | Knight of Light                                                                                    |                                                         |                              |
+| DA                           | Kokoro                                                                                             |                                                         | ココロ                          |
+| M2                           | KONEKO NO PAYAPAYA [sic]                                                                           | KONEKO NO PAYAPAYA                                      | 子猫のパヤパヤ                      |
+| DA                           | Last Night, Good Night                                                                             |                                                         |                              |
+| DA                           | Leia                                                                                               |                                                         |                              |
+| DA                           | Let Me Lose Myself in The Black Note                                                               |                                                         |                              |
+| DA                           | LIKE THE WIND [sic]                                                                                |                                                         |                              |
+| DA<br>M1<br>DX               | LOL -lots of laugh- [sic]                                                                          | LOL -lots of laugh-                                     | LOL -lots of laugh-          |
+| DA                           | Look This Way, Baby                                                                                |                                                         |                              |
+| DA                           | Love-Colored Ward                                                                                  |                                                         |                              |
+| DA                           | Love-Hate                                                                                          |                                                         |                              |
+| DA                           | Love is War                                                                                        |                                                         |                              |
+| DX                           | Love Song                                                                                          | Ai no Uta                                               | 愛の詩                          |
+| DX                           | Love Trial                                                                                         | Ren'ai Saiban                                           | 恋愛裁判                         |
+| DA                           | Love's note                                                                                        |                                                         |                              |
+| DA                           | Lover's Suicide Oblivion                                                                           |                                                         |                              |
+| DA                           | Lucid Dreaming                                                                                     |                                                         |                              |
+| DA                           | Luka Luka ★ Night Fever                                                                            |                                                         |                              |
+| DA                           | Magical Sound Shower                                                                               |                                                         |                              |
+| DA                           | Magnet                                                                                             |                                                         |                              |
+| DA                           | maigo life [sic]                                                                                   |                                                         |                              |
+| DA                           | Marginal                                                                                           |                                                         |                              |
+| DA                           | Master of Puppets                                                                                  |                                                         |                              |
+| M1                           | Matryoshka                                                                                         | Matryoshka                                              | マトリョシカ                       |
+| DA                           | Meiteki Cybernetics                                                                                |                                                         |                              |
+| DA<br>M1                     | Melancholic                                                                                        | Merankorikku                                            | メランコリック                      |
+| DA                           | Mellow Yellow                                                                                      |                                                         |                              |
+| DA                           | meoldy... [sic]                                                                                    |                                                         |                              |
+| DA                           | Melt                                                                                               |                                                         |                              |
+| DA                           | Meteor                                                                                             |                                                         |                              |
+| DA<br>DXᴹ                    | Miracle Paint                                                                                      |                                                         |                              |
+| DA                           | Monochrome∞Blue Sky                                                                                |                                                         |                              |
+| DA                           | moon [sic]                                                                                         |                                                         |                              |
+| DA<br>M1                     | Mousou Sketch [M1/FT] <br> Delusion Sketch [FAN]                                                   |                                                         | 妄想スケッチ                       |
+| DX                           | Name of the Sin                                                                                    | Tsumi no Namae                                          | 罪の名前                         |
+| DXᴹ                          | Nebula                                                                                             | Nebula                                                  | Nebula                       |
+| DA                           | Negaposi∗Continues                                                                                 |                                                         |                              |
+| DA                           | NekoMimi Archive                                                                                   |                                                         |                              |
+| DA                           | NekoMimi Switch                                                                                    |                                                         |                              |
+| DA<br>MD                     | Nice To Meet You, Mr. Earthling                                                                    | Hajimemashite Chikyuujin-san                            | はじめまして地球人さん                  |
+| DA                           | Nightmare ☆ Party Night                                                                            |                                                         |                              |
+| DA<br>M1                     | No Logic                                                                                           | No Logic                                                | No Logic                     |
+| DA                           | Nostalogic                                                                                         |                                                         |                              |
+| DA                           | Now Choose                                                                                         |                                                         |                              |
+| DA                           | Nyanyanyanyanyanyanya!                                                                             |                                                         |                              |
+| DA                           | Odds & Ends                                                                                        |                                                         |                              |
+| DA                           | Oha-Yo-Del!!                                                                                       |                                                         |                              |
+| DA<br>M1                     | On The Rocks [FT] <br> on the rocks [sic] [M1]                                                     | On The Rocks                                            | On The Rocks                 |
+| DA                           | One-Sided Love Samba                                                                               |                                                         |                              |
+| DA                           | Out of Eden                                                                                        |                                                         |                              |
+| DA                           | Packaged                                                                                           |                                                         |                              |
+| DA                           | Palette                                                                                            |                                                         |                              |
+| DA                           | Pane dhiria                                                                                        |                                                         |                              |
+| DA                           | Paradichlorobenzene                                                                                |                                                         |                              |
+| DA                           | Paris Cinema Girl                                                                                  |                                                         |                              |
+| DX                           | Patchwork Staccato                                                                                 | Tsugihagi Sutakkaato                                    | ツギハギスタッカート                   |
+| DA                           | Perico Space Shipper                                                                               |                                                         |                              |
+| DA<br>M1                     | PIANO∗GIRL [sic]                                                                                   | PIANO∗GIRL                                              | PIANO∗GIRL                   |
+| M2                           | Piano x Forte x Scandal                                                                            | Piano x Forute x Sukyandaru                             | ピアノxフォルテxスキャンダル              |
+| DA                           | Pink Moon                                                                                          |                                                         |                              |
+| DXᴹ                          | Pincostique Luv [DX] <br> Pink Stick Luv [FAN]                                                     | Pinko Sutikku Luv                                       | ぴんこすてぃっくLuv                  |
+| DA                           | Pinky Swear                                                                                        |                                                         |                              |
+| DA                           | Po Pi Po                                                                                           |                                                         |                              |
+| DA                           | Promise                                                                                            |                                                         |                              |
+| DA                           | Puzzle                                                                                             |                                                         |                              |
+| DA                           | Quartet of Multiple Futures -Quartet Theme-                                                        |                                                         |                              |
+| DA                           | Rain With A Chance of Sweet∗Drops                                                                  |                                                         |                              |
+| DX                           | Raspberry ∗ Monster                                                                                | Razuberii ∗ Monsutaa                                    | ラズベリー＊モンスター                  |
+| DA                           | Remote Controller                                                                                  |                                                         |                              |
+| DA                           | Requiem for the Phantasma                                                                          |                                                         |                              |
+| M1                           | reverse rainbow [sic]                                                                              | Sakasama Reinboo                                        | 逆さまレインボー                     |
+| DA                           | Rin-chan Now!                                                                                      |                                                         |                              |
+| DA                           | RinRin Signal -Append Mix-                                                                         |                                                         |                              |
+| DA                           | Rolling Girl                                                                                       |                                                         |                              |
+| DA<br>M2                     | Romeo and Cinderella                                                                               | Romio to Shinderera                                     | ロミオとシンデレラ                    |
+| DA                           | Rosary Pale                                                                                        |                                                         |                              |
+| DA                           | Roshin Yukai                                                                                       |                                                         |                              |
+| DA<br>DXᴹ                    | Sadistic.Music∞Factory                                                                             |                                                         |                              |
+| DA                           | Saihate                                                                                            |                                                         |                              |
+| DA                           | Sakura no Ame                                                                                      |                                                         |                              |
+| DX                           | Satisfaction                                                                                       | Satisfaction                                            | Satisfaction                 |
+| DA                           | Sayonara, Goodbye                                                                                  |                                                         |                              |
+| DA                           | Secret Police                                                                                      |                                                         |                              |
+| DA                           | Sekiranun Grafiti                                                                                  |                                                         |                              |
+| DA<br>M2                     | Senbonzakura                                                                                       | Senbonzakura                                            | 千本桜                          |
+| DA<br>M2                     | Shake It!                                                                                          |                                                         |                              |
+| DX                           | Sharing The World                                                                                  | Sharing The World                                       | Sharing The World            |
+| DA<br>M1                     | SING&SMILE [sic]                                                                                   | SING&SMILE                                              | SING&SMILE                   |
+| DA<br>M2                     | Skeleton Orchesta and Lillia                                                                       | Gaikotsu Gakudan to Lilia                               | 骸骨楽団とリリア                     |
+| DX                           | Slow Motion                                                                                        | Suroo Mooshon                                           | すろぉもぉしょん                     |
+| DA                           | slump [sic]                                                                                        |                                                         |                              |
+| DA<br>M2                     | Snowman                                                                                            | Sunooman                                                | スノーマン                        |
+| DA                           | So Much Loving You★ -DIVA Edit- [sic]                                                              |                                                         |                              |
+| DA                           | Soiyassa!!                                                                                         |                                                         |                              |
+| DX                           | Solitary Envy [DX] <br> Solitary Hide & Seek Envy [FAN]                                            | Hitorinbo Envy                                          | 独りんぼエンヴィー                    |
+| DA                           | Solitude's End                                                                                     |                                                         |                              |
+| DA                           | Solitude's End -extend edition- [sic]                                                              |                                                         |                              |
+| DA                           | Song of Eternity -DIVAMIX- [sic]                                                                   |                                                         |                              |
+| DA                           | Song of Life                                                                                       |                                                         |                              |
+| DA                           | Sound                                                                                              |                                                         |                              |
+| DA                           | Soundless Voice                                                                                    |                                                         |                              |
+| DA                           | SPiCa -39's Giving Day Edition- [sic]                                                              |                                                         |                              |
+| DA                           | Star Story                                                                                         |                                                         |                              |
+| DA                           | Stardust Utopia                                                                                    |                                                         |                              |
+| DA                           | Starduster                                                                                         |                                                         |                              |
+| DA                           | StargazeR                                                                                          |                                                         |                              |
+| DA                           | Starlite★Lydian                                                                                    |                                                         |                              |
+| DA                           | Stay with me                                                                                       |                                                         |                              |
+| DA                           | Step Forward                                                                                       |                                                         |                              |
+| DX                           | Strangers                                                                                          | Strangers                                               | Strangers                    |
+| DX                           | Streaming Heart                                                                                    | Sutoriimingu Haato                                      | ストリーミングハート                   |
+| DA                           | Strobe Nights                                                                                      |                                                         |                              |
+| DA                           | Summer Idol                                                                                        |                                                         |                              |
+| DA<br>DXᴹ                    | Sweet Devil                                                                                        |                                                         |                              |
+| DA<br>M2                     | Sweet Magic                                                                                        | Suiito Majikku                                          | スイートマジック                     |
+| DA                           | SYMPHONIC DIVE - DIVA FT edit - [sic]                                                              |                                                         |                              |
+| DA                           | Systematic Love                                                                                    |                                                         |                              |
+| DX                           | Tale of Deep-Sea Lily [DX] <br> Sea Lily Deep Sea Tale [FAN]                                       | Umiyuri Kaitei Tan                                      | ウミユリ海底譚                      |
+| DA                           | Tell Your World                                                                                    |                                                         |                              |
+| DA<br>DXᴹ                    | Tengaku                                                                                            |                                                         |                              |
+| DA<br>M2                     | Terekakushi Shishunki                                                                              | Terekakushi Shishunki                                   | テレカクシ思春期                     |
+| DA                           | That One Second in Slow Motion                                                                     |                                                         |                              |
+| DA<br>DXᴹ                    | The Disappearance of Hatsune Miku                                                                  |                                                         |                              |
+| DA<br>DX                     | The First Sound                                                                                    | Hajimete no Oto                                         | ハジメテノオト                      |
+| DA<br>DXᴹ                    | The Intense Voice of Hatsune Miku                                                                  |                                                         |                              |
+| DX                           | The Lost One's Weeping                                                                             | Rosuto Wan no Goukoku                                   | ロストワンの号哭                     |
+| DA                           | The MMORPG Addict's Theme                                                                          |                                                         |                              |
+| DA                           | The secret garden                                                                                  |                                                         |                              |
+| DA                           | The Snow White Princess is...                                                                      |                                                         |                              |
+| DA                           | The Star Maker                                                                                     |                                                         |                              |
+| DA                           | The Two of Us - Futaride                                                                           |                                                         |                              |
+| DA<br>M2                     | The World is Mine                                                                                  | Waarudo Izu Main                                        | ワールドイズマイン                    |
+| DA                           | This is the Happiness and Peace of Mind Committee                                                  |                                                         |                              |
+| DXᴹ                          | This Messed-Up Wonderful World Exists for Me                                                       | Kono Fuzaketa Subarashiki Sekai wa, Boku no Tame ni Aru | このふざけた素晴らしき世界は、僕の為にある        |
+| DA                           | Though My Song Has No Form                                                                         |                                                         |                              |
+| DA                           | Thousand Year Solo (DIVA Edit)                                                                     |                                                         |                              |
+| DA                           | Time Limit                                                                                         |                                                         |                              |
+| DA                           | Time Machine                                                                                       |                                                         |                              |
+| DA                           | To the End of Inifinity                                                                            |                                                         |                              |
+| DA                           | Tokyo Teddy Bear                                                                                   |                                                         |                              |
+| DA                           | Torinokocity [FT] <br> Urbandonment [F1]                                                           |                                                         |                              |
+| DA                           | Transparent Watercolors                                                                            |                                                         |                              |
+| DA                           | Travel to The Other Side of The Moon [sic]                                                         |                                                         |                              |
+| DA<br>M1                     | Tricolore Airline                                                                                  | Torikorooru Ea Rain                                     | トリコロール・エア・ライン                |
+| DA                           | Two Breaths Walking                                                                                |                                                         |                              |
+| DA<br>D1ᴰ<br>DE<br>F2<br>DXᴹ | Two-Sided Lovers [FT/DX/F2] <br> Two-Face Lovers [FAN]                                             |                                                         |                              |
+| DA<br>DXᴹ                    | Unhappy Refrain                                                                                    |                                                         |                              |
+| DA                           | Updating My Love List?                                                                             |                                                         |                              |
+| DX                           | Urotander, Underhanded Rangers [DX] <br> Coward Squadron Urotander [FAN]                           | Hikyou Sentai Urotander                                 | 卑怯戦隊うろたんだー                   |
+| DA                           | Velvet Arabesque                                                                                   |                                                         |                              |
+| DXᴹ                          | Viva Happy                                                                                         | Biba Hapi                                               | ビバハピ                         |
+| DA<br>DXᴹ                    | VOC@LOID in Love [sic]                                                                             |                                                         |                              |
+| DA                           | VOiCE -DIVA MIX- [sic]                                                                             |                                                         |                              |
+| M1                           | Watashi no jikan                                                                                   | Watashi no jikan                                        | 私の時間                         |
+| DA                           | Weekender Girl                                                                                     |                                                         |                              |
+| DA                           | What Do You Mean!?                                                                                 |                                                         |                              |
+| DA                           | When First Love Ends                                                                               |                                                         |                              |
+| DA                           | White Dove                                                                                         |                                                         |                              |
+| DA                           | Wintry Winds                                                                                       |                                                         |                              |
+| DA                           | Wolf Girl                                                                                          |                                                         |                              |
+| DA                           | World's End Dance Hall -Live Dance Edition-                                                        |                                                         |                              |
+| DA                           | World's End Umbrella                                                                               |                                                         |                              |
+| DA                           | Yellow                                                                                             |                                                         |                              |
+| DA<br>M1                     | Your Body Temperature                                                                              | Kimi no Taion                                           | 君の体温                         |
+| DA<br>M1                     | Yumeyume                                                                                           | Yumeyume                                                | ゆめゆめ                         |
+| DA                           | ZIGG-ZAGG [sic]                                                                                    |                                                         |                              |
+| M2<br>DXᴹ                    | 1 2 Fanclub                                                                                        | Ii Aru Fankurabu                                        | いーあるふぁんくらぶ                   |
+| DA<br>M2                     | 1/6 -out of the gravity- [sic]                                                                     | 1/6 -out of the gravity-                                | 1/6 -out of the gravity-     |
+| DA<br>M2                     | 1925                                                                                               | 1925                                                    | 1925                         |
+| DA<br>F2<br>DXᴹ              | 2D Dream Fever                                                                                     |                                                         |                              |
+| DA                           | 39                                                                                                 | 39                                                      | 39                           |
