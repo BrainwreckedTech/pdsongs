@@ -26,291 +26,290 @@ Annotations
 Songs
 -----
 
-| DA | D1 | D2 | DE | M1 | F1 | M2 | F2 | MD | DX | English (official/fan/localized) | Romaji | Japanese |
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|----------------------------------|--------|----------|
-|  ✔ |  ✔ |  ✔ |    |    |    |    |  ✔ |    |    |  A Song of Wastelands, Forests, and Magic | Kouya to Mori to Mahou no Uta | 荒野と森と魔法の歌 |
-|    |    |    |    |    |    |    |    |    |  ✔ |  A Single Red Leaf [DX] <br /> Crimson Leaf [FAN] | Akahitoha | 紅一葉 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Absolunote | Absolunote | Absolunote |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | ACUTE [sic] | ACUTE | ACUTE |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Adolescence | Adoresansu | アドレサンス |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |  M | Ageage Again | Ageage Agein | アゲアゲアゲイン |
-|  ✔ |    |    |    |    |    |    |    |    |    | AFTER BURNER [sic] | AFTER BURNER | AFTER BURNER |
-|    |    |    |    |    |    |    |    |    |  ✔ | Ai Dee [DX] <br /> Identity [LOC] | Ai Dee | 愛Dee |
-|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Aikotoba [FT/F2] <br /> Love Words [FAN] <br /> Words of Love [LOC] | Aikotoba | 愛言葉 |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Akatsuki Arrival [F2/FT] <br /> Daybreak Arrival [LOC] | Akatsuki Arrival | アカツキアライヴァル |
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Aku no Musume | Aku no Musume | 悪ノ娘 |
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Aku no Meshitsukai | Aku no Meshitsukai | 悪ノ召使 |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Amatsu Kitsune | Amatsu Kitsune | アマツキツネ |
-|    |    |    |    |    |    |    |    |    |  ✔ | Amazing Dolce | Amazing Dolce | Amazing Dolce |
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Animal Fortune-Telling | Doubutsu Uranai | どうぶつ占い |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Arifureta Sekai Seifuku [FT] <br /> Mundane World Domination [MD] <br /> Common World Domination [FAN] | Arifureta Sekai Seifuku | ありふれたせかいせいふく |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Ashes to Ashes | Hai wa Hai ni | ハイハハイニ |
-|    |    |    |    |    |    |    |    |    |  ✔ | Babylon | Babiron | バビロン |
-|  ✔ |    |    |    |    |    |    |    |    |    | Betty The Liar [FT] <br /> Liar Betty [FAN/LIT] | Usotsuki Beti | 嘘つきベティ |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Beware of the Miku Miku Germs♪ [FT] <br /> Beware of the Miku Miku Bacteria♪ [FAN] | Mikumiku-kin ni Gochuui♪ | みくみく菌にご注意♪ |
-|  ✔ |    |    |    |    |    |    |    |    |    | Black Gold | Burakku Goorudo | ブラックゴールド |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Blackjack | Blackjack | Blackjack |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Black★Rock Shooter | Burakku★Rokku Shuutaa | ブラック★ロックシューター |
-|    |    |    |    |    |    |    |    |    |  M | BLOOMING THE IDOL [sic] | Idol wo Sakase | アイドルを咲かせ |
-|    |    |    |    |    |    |    |    |    |  ✔ | Brain Revolution Girl | Nounai Kakumei Gaaru | 脳内革命ガール |
-|  ✔ |    |    |    |    |    |    |    |    |    | break;down [sic] | break;down | break;down |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Break It, Break It! | Kowase, Kowase | 壊セ壊セ |
-|  ✔ |    |  ✔ |  ✔ |    |    |    |    |    |    | Butterfly on Your Right Shoulder | Migikata no Chou | 右肩の蝶 |
-|    |    |    |    |    |    |    |    |    |  ✔ | Calc. | Calc. | Calc. |
-|  ✔ |    |  ✔ |    |    |    |    |  ✔ |    |    | Cantarella | Kantarera | カンタレラ |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Cat Food | Kyatto Fudo | キャットフード |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Cendrillon | Sandoriyon | サンドリヨン |
-|    |    |    |    |    |    |    |    |    |  M | Chaining Intention | Chaining Intention | Chaining Intention |
-|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Change Me | Change me | Change me |
-|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Close and Open, Demons and the Dead [F2/FT] <br /> Hold, Release; Rakshasa and Carcasses [LOC] | Musunde Hiraite Rasetsu to Mukuro | 結んで開いて羅刹と骸 |
-|  ✔ |    |  ✔ |    |  ✔ |    |  ✔ |  ✔ |  ✔ |    | Clover♣Club | Kuroobaa♣Kurabu | クローバー♣クラブ |
-|  ✔ |    |  ✔ |  ✔ |    |    |    |  ✔ |    |    | Colorful ⨯ Melody | Karafuru ⨯ Merodii | カラフル×メロディ |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Colorful ⨯ Sexy | Karafuru ⨯ Sekushii | カラフル×セクシィ |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Continuing Dream [F1/FT] <br /> Continuation of Dreams [LOC] | Yume no tsudzuki | 夢の続き |
-|  ✔ |    |    |    |    |    |    |    |    |    | Dance of Many [FT] <br /> Dance of Many -Dance of Many- [LIT] | Amata no Mai -Dance of Many--| 数多の舞 -Dance of many--|
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Dear | Dear | Dear |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Dear Cocoa Girls | Dear Cocoa Girls | Dear cocoa girls |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Decorator | Decorator | DECORATOR |
-|  ✔ |    |    |    |    |    |    |    |    |    | Deep Sea City Underground | Shinkai Shiti Andaaguraundo | 深海シティアンダーグラウンド |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Deep Sea Girl | Shinkai Shoujo | 深海少女 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Denparadigm [FT] <br /> Den Paradigm [FAN] | Den Paradaimu | デンパラダイム |
-|    |    |    |    |    |    |    |    |    |  M | Dependence Intension | Dependence Intension | Dependence Intension |
-|  ✔ |    |    |    |    |    |    |    |    |    | Disruptive Diva [FT] <br /> Diruptive Diva -Disruptive Diva- [LIT] | Houkai Utahime -Disruptive Diva--| 崩壊歌姫 -disruptive diva--|
-|    |    |    |    |    |    |    |    |    |  M | Don't &quot;My List&quot; Me! | Mairisu Dame! | マイリスダメー！ |
-|    |    |    |    |    |    |  ✔ |    |  ✔ |    | Doremifa Rondo | Doremifa Rondo | ドレミファロンド |
-|  ✔ |    |  ✔ |    |    |    |    |  ✔ |    |    | Double Lariat | Daburu Rariatto | ダブルラリアット |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Doubleganger [F2/FT] <br /> Genga Spoofing [LIT] | Narisumashi Genga | なりすましゲンガー |
-|  ✔ |    |    |    |    |  E |    |    |    |    | Dream-Eating Monochrom Baku | Yumekui Shiro Kuro Baku | 夢喰い白黒バク |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |  M | Dreaming Leaf [DX/FT] <br /> Dreaming Leaf -Dreaming Words- [FAN] | Dreaming Leaf -Yume Miru Kotonoha--| Dreaming Leaf -ユメミルコトノハ--|
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | DYE [sic] | DYE | DYE |
-|    |    |    |    |    |    |    |    |    |  M | EAZY DANCE [sic] | Iijii Densu | イージーデンス |
-|  ✔ |    |  D |  ✔ |    |    |  ✔ |  D |  ✔ |    | Electric Angel | Erekutorikku Enjeu | えれくとりっく・えんじぇぅ |
-|    |    |    |    |    |    |  ✔ |    |  ✔ |    | Electric Love | Erekutorikku Rabu | エレクトリック・ラブ |
-|  ✔ |    |    |    |    |    |    |    |    |    | Electrosaturator | Erekutorosachureita | エレクトロサチュレイタ |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Envy Cat Walk | Envikyattowōku | エンヴィキャットウォーク |
-|  ✔ |    |    |    |    |    |    |    |    |    | Equation+∗∗ | Equation+∗∗ | Equation+∗∗ |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Erase or Zero | erase or zero | erase or zero |
-|    |    |    |    |    |    |    |    |    |  ✔ | Even a Kunoichi Needs Love [DX] <br /> Even as a Female Ninja, I Want to Love [FAN] | Kunoichi Demo Koi ga Shitai | クノイチでも恋がしたい |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Far Away | Far Away | Far Away |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Finder (DSLR remix - re:edit) [sic] | Faindaa (DSLR remix- re:edit) | ファインダー(DSLR remix - re:edit) |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Fire⊚Flower | Fire⊚Flower | Fire⊚Flower |
-|  ✔ |    |    |    |    |    |    |    |    |    | Francisca | Furanshisuka | フランシスカ |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Freely Tomorrow [FT] <br /> FREELY TOMORROW [F1/DX] | FREELY TOMORROW | FREELY TOMORROW |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | from Y to Y [sic] | from Y to Y | from Y to Y |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Gemini | Jiemini | ジェミニ |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Gigantic Girl | Kyodai Shoujo | 巨大少女 |
-|    |    |    |    |    |    |    |    |    |  M | Gigantic O.T.N. [DX] <br /> Gigantic P.N.S. [FAN] | Gigantikku O.T.N | ギガンティックO.T.N |
-|  ✔ |    |    |    |    |    |    |    |    |    | Gizmo | Gizumo | ぎずも |
-|  ✔ |    |    |    |    |    |    |    |    |    | Glasses | Megane | MEGANE |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Glory 3usi9 [F2/FT] <br /> Glory Music [LIT] | Glory 3usi9 | Glory 3usi9 |
-|    |    |    |    |    |    |  ✔ |    |  ✔ |    | glow [sic] | glow | glow |
-|    |    |  D |  D |    |    |    |    |    |    | GO MY WAY | [sic] | GO MY WAY |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | God-Tier Tune [F1/FT] <br /> The Divine Comedy [LOC] | Kamikyoku | 神曲 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Gothic and Loneliness ~I'm the Very Diva~ | Gothic and Loneliness ~I'm the Very Diva~ | Gothic and Loneliness ~I'm the very DIVA~ |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |  M | Grumpy Waltz [FT] <br /> Bad Mood Waltz [FAN] | Fukigen Warutsu | フキゲンワルツ |
-|  ✔ |    |    |    |    |    |    |    |    |    | Hanamai Tsukuyomi Tan | Hanamai Tsukuyomi Tan | 花舞月詠譚 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Hand In Hand | Hand in Hand | Hand in Hand |
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Happy Synthesizer | Happii Shinsesaiza | ハッピーシンセサイザ |
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Hello/How are you? | Haro/Hawayu | ハロ/ハワユ |
-|  ✔ |    |    |  ✔ |    |    |  ✔ |    |  ✔ |    | Hello, Planet. | ∗Haroo, Puranetto. | ＊ハロー、プラネット。 |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Hello, Worker | Hello, Worker | Hello, Worker |
-|  ✔ |    |    |    |    |    |    |    |    |    | Here Comes Karakasa-san | Karakasa-san ga Tooru | 唐傘さんが通る |
-|  ✔ |    |    |    |    |    |    |    |    |    | Hibikase [FT] <br /> Resonate [LOC] | Hibikase | ヒビカセ |
-|  ✔ |    |    |    |    |    |    |    |    |    | High School Days - DIVA EDIT [sic] | Haisukuuru Days - DIVA EDIT | ハイスクール Days - DIVA EDIT |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Hm? Ah, Yes. | E? Aa, Sou. | え？あぁ、そう。 |
-|    |    |    |    |    |    |    |    |    |  ✔ | Holy Lance Explosion Boy | Seisou Bakuretsu Booi | 聖槍爆裂ボーイ |
-|  ✔ |    |    |    |    |    |    |    |    |    | Holy Star -2010 Diva Mix--| Holy Star -2010 Diva Mix--| Holy Star -2010 DIVA mix--|
-|    |    |    |    |    |    |    |    |    |  ✔ | Humorous Dream of Mrs. Pumpkin [DX] <br /> Mrs. Pumpkin's Comical Dream [FAN] | Mrs. Pumpkin no Kokkei na Yume | Mrs.Pumpkinの滑稽な夢 |
-|  ✔ |    |    |    |    |    |    |    |    |    | How'd It Get To Be Like This? [FT] <br /> How Did This Happen? [FAN] | Doushite Kou Natta | どうしてこうなった |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | I Really Do Understand [FT] <br /> I Understand the Truth [FAN] | Honto wa Wakatteru | ほんとは分かってる |
-|  ✔ |  ✔ |  ✔ |    |    |  A |    |  ✔ |    |    | I'll Miku-Miku You♪ (For Reals) [F2/FT] <br /> I'll Make You Do the Miku Miku♪ (You'll Do It) [FAN] | Miku Miku ni Shite Ageru♪ (Shite Yan yo) | みくみくにしてあげる♪【してやんよ】 |
-|  ✔ |  ✔ |  D |  ✔ |    |    |    |    |    |    | I'm Your Diva | Anata no Utahime | あなたの歌姫 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Idol Radio (Game Edit) [FT] <br /> Wireless Idol (Game Edit) [FAN] | Guuzou Musen (Game Edit) | 偶像無線(Game Edit) |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Ievan Polkka | Ievan Polkka | Ievan Polkka |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Innocence | Innocence | Innocence |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Interviewer | Intabyuaa | インタビュアー |
-|    |    |    |    |    |    |  ✔ |    |  ✔ |    | Invisible | Inbijiburu | インビジブル |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Iroha Uta [FT] <br /> ABC Song [LOC] | Iroha Uta | いろは唄 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Iya Iya Seijin [DA] <br /> No, No, Alien [LOC] | Iya Iya Seijin | イヤイヤ星人 |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Jaded [FT] <br /> The Rebel [FAN] <br /> Contradictory Person [LIT] | Hinekuremono | ひねくれ者 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Jegemu Sequencer [FT] <br /> Blossom Sequencer [FAN] | Jugemu Shiikensaa | ジュゲムシーケンサー |
-|  ✔ |    |  ✔ |  ✔ |    |    |    |  D |    |    | Just Be Friends | Just Be Friends | Just Be Friends |
-|    |    |    |    |    |  ✔ |    |    |    |    | Kagamine HachiHachi Flower Fight | Kagamine Hachihachi Hana Gassen | 鏡音八八花合戦 |
-|    |    |    |    |    |    |    |  ✔ |    |    | Kagerou Daze [F2] <br /> Heat Haze Daze [LOC] | Kagerou Deizu | カゲロウデイズ |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Karakuri Pierrot [FT] <br /> Clockwork Clown [F2] <br /> Clown's Trick [LOC] | Karakuri Pierrot | からくりピエロ |
-|    |    |    |    |    |    |    |    |    |  M | Kiddie War [DX] <br /> Childish War [FAN] | Okochama Sensou | おこちゃま戦争 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Kimi Ni [FT] <br /> To You [LIT] | Kimi ni | キミに |
-|  ✔ |    |    |    |    |    |    |    |    |    | Kipple Industry, Inc. | Kipuru·Indasutorii | キップル・インダストリー |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Knife | Knife | Knife |
-|  ✔ |    |    |    |    |    |    |    |    |    | Knight of Light | Naito Obu Raito | ナイト・オブ・ライト |
-|    |    |    |    |    |    |  ✔ |    |  ✔ |    | KONEKO NO PAYAPAYA [sic] | KONEKO NO PAYAPAYA | 子猫のパヤパヤ |
-|  ✔ |    |  ✔ |    |    |    |  ✔ |  ✔ |  ✔ |    | Kokoro [M2/F2/FT] <br /> Heart [LIT] | Kokoro | ココロ |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Last Night, Good Night | Last Night, Good Night | Last Night, Good Night |
-|  ✔ |    |    |    |    |    |    |    |    |    | Leia | Leia | Leia |
-|  ✔ |    |    |    |    |    |    |    |    |    | Let Me Lose Myself in the Black Note [FT] <br /> Drowned in the Black Note [FAN] | Burakku Nooto ni Obore Sasete | ブラックノートに溺れさせて |
-|  ✔ |    |    |    |    |    |    |    |    |    | LIKE THE WIND [sic] | LIKE THE WIND | LIKE THE WIND |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |  ✔ | LOL -lots of laugh- [sic] | LOL -lots of laugh--| LOL -lots of laugh--|
-|  ✔ |    |  ✔ |  ✔ |    |    |    |  D |    |    | Look This Way, Baby [F2/FT] <br /> Come Here, Baby [LOC] | Kocchi Muite Baby | こっち向いて Baby |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Love-Colored Ward | Koiiro Byouto | 恋色病棟 |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Love-Hate | Suki, Kirai | スキキライ |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Love is War | Koi wa Sensou | 恋は戦争 |
-|    |    |    |    |    |    |    |    |    |  ✔ | Love Song | Ai no Uta | 愛の詩 |
-|    |    |    |    |    |    |    |    |    |  ✔ | Love Trial | Ren'ai Saiban | 恋愛裁判 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Love's Note [FT] <br /> Love Note [FAN] | Koi Nooto | 恋ノート//// |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Lover's Suicide Oblivion [FT] <br /> Love Suicide in Oblivion [FAN] | Boukyaku Shinjuu | 忘却心中 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Lucid Dreaming | Rushiddo Doriimingu | ルシッドドリーミング |
-|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Luka Luka ★ Night Fever | Ruka Ruka ★ Naito Fiibaa | ルカルカ★ナイトフィーバー |
-|  ✔ |    |    |    |    |    |    |    |    |    | Magical Sound Shower | Magical Sound Shower | Magical Sound Shower |
-|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Magnet | magnet | magnet |
-|  ✔ |    |    |    |    |    |    |    |    |    | maigo life [sic] [FT] <br /> Stray Life [FAN] | Maigo Raifu | 迷子ライフ |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |  D |    |    | Marginal | Maajinaru | マージナル |
-|  ✔ |    |    |    |    |    |    |    |    |    | Master of Puppets | Masutaa Obu Papettsu | マスターオブパペッツ |
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Matryoshka | Matryoshka | マトリョシカ |
-|  ✔ |    |    |    |    |    |    |    |    |    | Meiteki Cybernetics [FT] <br /> Stray Cybernetics [FAN] | Meiteki Saibanetikkusu | 迷的サイバネティックス |
-|  ✔ |    |    |    |  ✔ |  ✔ |  ✔ |    |  ✔ |    | Melancholic | Merankorikku | メランコリック |
-|  ✔ |    |    |    |    |    |    |    |    |    | Mellow Yellow | Mellow Yellow | Mellow Yellow |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | melody... [sic] | melody... | melody... |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |  ✔ |    |    | Melt | Meruto | メルト |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Meteor | Meteo | メテオ |
-|  ✔ |  ✔ |  ✔ |    |    |  A |    |  ✔ |    |  M | Miracle Paint | Mirakuru Peinto | ミラクルペイント |
-|  ✔ |    |    |    |    |    |    |    |    |    | Monochrome∞Blue Sky | Monokuro∞Burūsukai | モノクロ∞ブルースカイ |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | moon [sic] | moon | moon |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Mousou Sketch [M1/FT] <br /> Delusion Sketch [FAN] | Mousou Suketchi | 妄想スケッチ |
-|    |    |    |    |    |    |    |    |    |  ✔ | Name of the Sin | Tsumi no Namae | 罪の名前 |
-|    |    |    |    |    |    |    |    |    |  M | Nebula | Nebula | Nebula |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Negaposi∗Continues | Negaposi∗Kontinyuzu | ネガポジ*コンティニューズ |
-|  ✔ |    |    |    |    |    |    |    |    |    | NekoMimi Archive | Nekomimi Aakaibu | ネコミミアーカイブ |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | NekoMimi Switch | Nekomimi Suitchi | ねこみみスイッチ |
-|  ✔ |    |    |    |    |    |    |    |  ✔ |    | Nice To Meet You, Mr. Earthling | Hajimemashite Chikyuujin-san | はじめまして地球人さん |
-|  ✔ |    |    |    |    |    |    |    |    |    | Nightmare ☆ Party Night | Naitomea☆Paatii Naito | ナイトメア☆パーティーナイト |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | No Logic | No Logic | No Logic |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Nostalogic | Nostalogic | Nostalogic |
-|  ✔ |    |    |    |    |    |    |    |    |    | Now Choose [FT] <br /> Now, Which? [FAN] | Saa, Docchi? | さあ、どっち？ |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Nyanyanyanyanyanyanya! | Nyanyanyanyanyanyanya! | Nyanyanyanyanyanyanya! |
-|  ✔ |    |    |    |    |    |    |    |    |    | Odds &amp; Ends [F1/FT] | Odds &amp; Ends | ODDS&amp;ENDS |
-|  ✔ |    |    |    |    |    |    |    |    |    | Oha-Yo-Del | [FT] <br /> Good Morning Yodel [LOC] | Owayooderu |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | On The Rocks [FT] <br /> on the rocks [sic] [M1] | On The Rocks | On The Rocks |
-|  ✔ |    |    |    |    |    |    |    |    |    | One-Sided Love Samba [FT] <br /> Unrequited Love Samba [FAN] | Kataomoi Sanba | 片想いサンバ |
-|  ✔ |    |    |    |    |    |    |    |    |    | Out of Eden | Auto Obu Eden | アウト オブ エデン |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |  ✔ |    |    | Packaged [F2/FT] | Packaged | Packaged |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Palette | Palette | Palette |
-|  ✔ |    |    |    |    |    |    |    |    |    | Pane Dhiria | Pane Dhiria | Pane dhiria |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Paradichlorobenzene | Parajikurorobenzen | パラジクロロベンゼン |
-|  ✔ |    |    |    |    |    |    |    |    |    | Paris Cinema Girl [FT] <br /> Paris Movie Girl [FAN] | Pari Eiga Shoujo | 巴里映画少女 |
-|    |    |    |    |    |    |    |    |    |  ✔ | Patchwork Staccato | Tsugihagi Sutakkaato | ツギハギスタッカート |
-|  ✔ |    |    |    |    |    |    |    |    |    | Perico Space Shipper | Periko Supeesu Shipaa | ペリコ・スペースシッパー |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | PIANO∗GIRL [sic] | PIANO∗GIRL | PIANO∗GIRL |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Piano x Forte x Scandal | Piano x Forute x Sukyandaru | ピアノxフォルテxスキャンダル |
-|  ✔ |    |    |    |    |    |    |    |    |    | Pink Moon | Pinku Muun | ピンクムーン |
-|    |    |    |    |    |    |    |    |    |  M | Pincostique Luv [DX] <br /> Pink Stick Luv [FAN] | Pinko Sutikku Luv | ぴんこすてぃっくLuv |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Pinky Swear | Yubikiri | 指切り |
-|  ✔ |    |  ✔ |    |    |  D |    |    |    |    | Po Pi Po [FT] <br /> Vegetable Juice [FAN] | PoPiPo | ぽっぴっぽ ー |
-|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Promise | Promise | Promise |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Puzzle | Pazuru | パズル |
-|  ✔ |    |    |    |    |    |    |    |    |    | Quartet of Multiple Futures -Quartet Theme- [FT] <br /> Multiple Future Quartet -Quartet Theme- [FAN] | Tajuu Mirai no Karutetto -Quartet Theme--| 多重未来のカルテット -Quartet Theme--|
-|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Rain with a Chance of Sweet∗Drops [FT] <br /> Sweet∗Drops after the Rain [FAN] | Ame Nochi Sweet∗Drops | 雨のちSweet*Drops |
-|    |    |    |    |    |    |    |    |    |  ✔ | Raspberry ∗ Monster | Razuberii ∗ Monsutaa | ラズベリー＊モンスター |
-|    |    |  D |  D |    |    |    |    |    |    | relations [sic] | relations | relations |
-|  ✔ |    |    |    |    |    |    |    |    |    | Remote Controller | Rimokon | リモコン |
-|  ✔ |  ✔ |  D |  ✔ |    |    |    |    |    |    | Requiem for the Phantasma [FT] <br /> Golden Holy Night Rotting into the Frost and Snow [LOC] | Kogane no Seiya Sousetsu ni Kuchite | 金の聖夜霜雪に朽ちて |
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | reverse rainbow [sic] | Sakasama Reinboo | 逆さまレインボー |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Rin Rin Signal -Append Mix--| Rin Rin Shigunaru -Append Mix--| リンリンシグナル -Append Mix--|
-|  ✔ |    |    |    |    |  E |    |    |    |    | Rin-chan Now! | Rin-Chan Nau! | リンちゃんなう! |
-|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Rolling Girl | Roringaru | ローリンガール |
-|  ✔ |    |  ✔ |    |    |    |  ✔ |  ✔ |  ✔ |    | Romeo and Cinderella | Romio to Shinderera | ロミオとシンデレラ |
-|  ✔ |    |    |    |    |    |    |  D |    |    | Rosary Pale | Rosary Pale | Rosary Pale |
-|  ✔ |    |  ✔ |  ✔ |    |    |    |  ✔ |    |    | Roshin Yukai [F2/FT] <br /> Meltdown [FAN] <br /> Nuclear Fusion [LOC] | Roshin Yukai | 炉心融解 |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Sadistic.Music∞Factory | Sadistic.Music∞Factory | Sadistic.Music∞Factory |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Saihate [FT] <br /> The Farthest Ends [FAN] | Saihate | サイハテ |
-|  ✔ |  ✔ |    |    |    |    |    |  ✔ |    |    | Sakura no Ame [FT] <br /> Sakura Rain [F2] | Sakura no Ame | 桜ノ雨 |
-|    |    |    |    |    |    |    |    |    |  ✔ | Satisfaction | Satisfaction | Satisfaction |
-|  ✔ |    |    |    |    |    |    |    |    |    | Sayonara, Goodbye | Sayonara·Gubbai | サヨナラ・グッバイ |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Secret Police | Himitsu Keisatsu | 秘密警察 |
-|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Sekiranun Graffiti [F2/FT] <br /> Cumulonimbus Graffiti [LIT] | Sekiranun Graffiti | 積乱雲グラフィティ |
-|  ✔ |    |    |    |    |  E |  ✔ |    |  ✔ |    | Senbonzakura | Senbonzakura | 千本桜 |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Shake It! | Shake It! | shake it! |
-|    |    |    |    |    |    |    |    |    |  ✔ | Sharing The World | Sharing The World | Sharing The World |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | SING&amp;SMILE [sic] | SING&amp;SMILE | SING&amp;SMILE |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Skeleton Orchesta and Lillia | Gaikotsu Gakudan to Lilia | 骸骨楽団とリリア |
-|    |    |    |    |    |    |    |    |    |  ✔ | Slow Motion | Suroo Mooshon | すろぉもぉしょん |
-|  ✔ |    |    |    |    |    |    |    |    |    | slump [sic] | slump | slump |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Snowman | Sunooman | スノーマン |
-|  ✔ |    |    |    |    |    |    |    |    |    | So Much Loving You★ -DIVA Edit- [sic] | So Much Loving You★ -DIVA Edit--| So much loving you★ -DIVA Edit--|
-|  ✔ |    |    |    |    |    |    |    |    |    | Soiyassa |    | Soiyassaa |
-|    |    |    |    |    |    |    |    |    |  ✔ | Solitary Envy [DX] <br /> Solitary Hide &amp; Seek Envy [FAN] | Hitorinbo Envy | 独りんぼエンヴィー |
-|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Solitude's End | Kodoku no Hate | 孤独の果て |
-|  ✔ |    |    |    |    |    |    |    |    |    | Song of Eternity -DIVAMIX- [sic] <br /> Eternity -Song of Eternity- -DIVAMIX- [LIT] | Yuukyuu -Song of Eternity--| 悠久-Song of Eternity--|
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Song of Life | Inochi no Uta | いのちの歌 |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Sound | Saundo | サウンド |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Soundless Voice | soundless voice | soundless voice |
-|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | SPiCa -39's Giving Day Edition- [sic] | SPiCa -39's Giving Day Edition--| SPiCa -39's Giving Day Edition--|
-|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Star Story | Star Stroy | Star Story |
-|  ✔ |    |  D |  ✔ |    |    |    |    |    |    | Stardust Utopia | Nayuta no Kanata Made | 那由他の彼方まで |
-|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Starduster | Starduster | Starduster |
-|  ✔ |    |  D |  ✔ |    |    |    |    |    |    | StargazeR [sic] | StargazeR | StargazeR |
-|  ✔ |    |    |    |    |    |    |    |    |    | Starlite★Lydian | Starlite★Lydian | Starlite★Lydian |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Stay with Me | Stay With Me | Stay with me |
-|  ✔ |    |    |    |    |    |    |    |    |    | Step Forward | Suteppu Fowaado | ステップフォワード |
-|    |    |    |    |    |    |    |    |    |  ✔ | Strangers | Strangers | Strangers |
-|    |    |    |    |    |    |    |    |    |  ✔ | Streaming Heart | Sutoriimingu Haato | ストリーミングハート |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Strobe Nights | Sutorobonaitsu | ストロボナイツ |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Summer Idol | Samaaidoru | サマーアイドル |
-|  ✔ |    |    |    |    |  E |    |    |    |  M | Sweet Devil | Sweet Devil | Sweet Devil |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Sweet Magic | Suiito Majikku | スイートマジック |
-|  ✔ |    |    |    |    |    |    |    |    |    | SYMPHONIC DIVE - DIVA FT edit - [sic] | SYMPHONIC DIVE - DIVA FT edit --| SYMPHONIC DIVE - DIVA FT edit --|
-|  ✔ |    |    |    |    |    |    |    |    |    | Systematic Love | Shisutematiku ravu | システマティック・ラヴ |
-|    |    |    |    |    |    |    |    |    |  ✔ | Tale of Deep-Sea Lily [DX] <br /> Sea Lily Deep Sea Tale [FAN] | Umiyuri Kaitei Tan | ウミユリ海底譚 |
-|  ✔ |    |    |    |    |  E |    |    |    |    | Tell Your World | Tell Your World | Tell Your World |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Tengaku [F1/DX/FT] <br /> Music of Heavens [LOC] | Tengaku | 天樂 |
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Terekakushi Shishunki | Terekakushi Shishunki | テレカクシ思春期 |
-|  ✔ |    |    |    |    |    |    |    |    |    | That One Second in Slow Motion | Sono Ichibyou Suroo Mooshon | その一秒 スローモーション |
-|  ✔ |  ✔ |  ✔ |  ✔ |    |    |    |    |    |  M | The Disappearance of Hatsune Miku | Hatsune Miku no Shoushitsu | 初音ミクの消失 |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |  ✔ | The First Sound [DX/FT] <br /> The First Tone [LOC] | Hajimete no Oto | ハジメテノオト |
-|  ✔ |    |  ✔ |  ✔ |    |    |    |  ✔ |    |  M | The Intense Voice of Hatsune Miku [F2/DX/FT] <br /> The Singing Passion of Hatsune Miku [LOC] | Hatsune Miku no Gekishou | 初音ミクの激唱 |
-|    |    |    |    |    |    |    |    |    |  ✔ | The Lost One's Weeping | Rosuto Wan no Goukoku | ロストワンの号哭 |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | The MMORPG Addict's Theme [F1/FT] <br /> Online Game Addicts Sprechchor [LOC] | Netoge Haijin Supurekoor | ネトゲ廃人シュプレヒコール |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | The secret garden | The secret garden | The secret garden |
-|  ✔ |    |    |    |    |    |    |    |    |    | The Snow White Princess is... | Shiroi Yuki no Purinsesu wa | 白い雪のプリンセスは |
-|  ✔ |    |    |    |    |    |    |    |    |    | The Star Maker [FT] <br />  A Person Who Makes Stars [FAN] | Hoshi O Tsukuru Hito | ほしをつくるひと |
-|  ✔ |    |    |    |    |    |    |    |    |    | The Two of Us - Futaride [FT] <br /> Together [FAN] | Futari de. | ふたりで。 |
-|  ✔ |  ✔ |  ✔ |    |    |  A |  ✔ |  ✔ |  ✔ |    | The World is Mine | Waarudo Izu Main | ワールドイズマイン |
-|    |    |    |    |    |    |    |    |    |  M | This Messed-Up Wonderful World Exists for Me | Kono Fuzaketa Subarashiki Sekai wa, Boku no Tame ni Aru | このふざけた素晴らしき世界は、僕の為にある |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | This is the Happiness and Peace of Mind Committee | Kochira, Koufuku Anshin Iinkai Desu | こちら、幸福安心委員会です |
-|    |    |    |    |    |    |    |    |    |  M | This Messed-Up Wonderful World Exists for Me | Kono Fuzaketa Subarashiki Sekai wa, Boku no Tame ni Aru | このふざけた素晴らしき世界は、僕の為にある |
-|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Though My Song Has No Form | Uta ni Katachi wa Nai Keredo | 歌に形はないけれど |
-|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Thousand Year Solo (Diva Edit) | Sennen no Dokusou Ka (DIVA Edit) | 千年の独奏歌(DIVA Edit) |
-|  ✔ |    |  D |  ✔ |    |    |    |    |    |    | Time Limit | Taimu Rimitto | タイムリミット |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Time Machine | Taimu Mashin | タイムマシン |
-|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | To the End of Infinity [F2/FT] <br /> To Beyond a Duodecillion [LIT] | Nayuta no Kanata Made | 那由他の彼方まで |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Tokyo Teddy Bear | Tokyo Tedibea | 東京テディベア |
-|  ✔ |    |    |    |    |  E |    |    |    |    | Torinokocity [FT] <br /> Urbandonment [F1] <br /> Left-Behind City [LOC] <br /> Torinoko City [LIT] | Torinokoshiti | トリノコシティ |
-|  ✔ |    |    |    |    |    |    |    |    |    | Transparent Watercolors [FT] <br /> Watercolors [FAN] | Toumei Suisai | 透明水彩 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Travel to the Other Side of the Moon [FT] <br /> Travel Beyond the Moon [FAN] | Tsuki Mukou Made no Toraberu | 月向うまでのトラベル |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Tricolore Airline | Torikorooru Ea Rain | トリコロール・エア・ライン |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Two Breaths Walking | Nisoku Hokou | 二息歩行 |
-|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |  M | Two-Sided Lovers [F2/DX/FT] <br /> Two-Face Lovers [FAN] | Uraomote Rabazu | 裏表ラバーズ |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Unhappy Refrain | Anhappi Rifurein | アンハッピーリフレイン |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Updating My Love List? [FT] <br /> Updating Your Love List? [FAN] | Rabu Risuto Koushinchuu? | ラブリスト更新中？ |
-|    |    |    |    |    |    |    |    |    |  ✔ | Urotander, Underhanded Rangers [DX] <br /> Coward Squadron Urotander [FAN] | Hikyou Sentai Urotander | 卑怯戦隊うろたんだー |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Velvet Arabesque | Birodo Arabesuku | 天鵞絨アラベスク |
-|    |    |    |    |    |    |    |    |    |  M | Viva Happy | Biba Hapi | ビバハピ |
-|  ✔ |  ✔ |    |    |    |    |    |    |    |  M | VOC@LOID in Love [sic] | Koi Suru VOC@LOID | 恋スルVOC@LOID |
-|  ✔ |    |  ✔ |    |    |    |    |    |    |    | VOiCE -DIVA MIX- [sic] | VOiCE -DIVA MIX--| VOiCE -DIVA MIX--|
-|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Watashi no jikan | Watashi no jikan | 私の時間 |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Weekender Girl | Weekender Girl | Weekender Girl |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | What Do You Mean!? | Dō iu koto na no!? | どういうことなの！？ |
-|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | When First Love Ends | Hajimete no Koi ga Owaru Toki | 初めての恋が終わる時 |
-|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | White Dove | Hato | ハト |
-|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Wintry Winds | Tsugai Kogarashi | 番凩 |
-|  ✔ |    |    |    |    |    |    |    |    |    | Wolf Girl | Ookami Girl | オオカミガール |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | World's End Dance Hall | Waruzuendo Dansuhoru | ワールズエンド・ダンスホール |
-|  ✔ |    |    |    |    |  ✔ |    |    |    |    | World's End Umbrella | WORLD'S END UMBRELLA | WORLD'S END UMBRELLA |
-|  ✔ |    |  ✔ |  ✔ |    |    |    |  D |    |    | Yellow | Yellow | Yellow |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Your Body Temperature | Kimi no Taion | 君の体温 |
-|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Yumeyume | Yumeyume | ゆめゆめ |
-|  ✔ |    |    |    |    |    |    |    |    |    | ZIGG-ZAGG [sic] | ZIGG-ZAGG | ZIGG-ZAGG |
-|    |    |    |    |    |    |  ✔ |    |  ✔ |  M | 1 2 Fanclub [M2/DX] <br /> Yī Èr Fanclub [LIT] | Ii Aru Fankurabu | いーあるふぁんくらぶ |
-|  ✔ |    |    |    |    |  A |  ✔ |    |  ✔ |    | 1/6 -out of the gravity- [sic] | 1/6 -out of the gravity--| 1/6 -out of the gravity--|
-|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | 1925 | 1925 | 1925 |
-|  ✔ |    |    |    |    | AD |    |    |    |    | 39 | 39 | 39 |
-|  ✔ |    |    |    |    |    |    |  ✔ |    |  M | 2D Dream Fever | Nijigen Doriimu Fiibaa | 二次元ドリームフィーバー |
+| DA | D1 | D2 | DE | M1 | F1 | M2 | F2 | MD | DX |                                     English (official/fan/localized)                                    |                           Romaji                          | Japanese |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|----------|
+|  ✔ |  ✔ |  ✔ |    |    |    |    |  ✔ |    |    | A Song of Wastelands, Forests, and Magic                                                                | Kouya to Mori to Mahou no Uta                             | 荒野と森と魔法の歌 |
+|    |    |    |    |    |    |    |    |    |  ✔ | A Single Red Leaf [DX] <br /> Crimson Leaf [FAN]                                                        | Akahitoha                                                 | 紅一葉 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Absolunote                                                                                              | Absolunote                                                | Absolunote |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | ACUTE [sic]                                                                                             | ACUTE                                                     | ACUTE |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Adolescence                                                                                             | Adoresansu                                                | アドレサンス |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |  M | Ageage Again                                                                                            | Ageage Agein                                              | アゲアゲアゲイン |
+|  ✔ |    |    |    |    |    |    |    |    |    | AFTER BURNER [sic]                                                                                      | AFTER BURNER                                              | AFTER BURNER |
+|    |    |    |    |    |    |    |    |    |  ✔ | Ai Dee [DX] <br /> Identity [LOC]                                                                       | Ai Dee                                                    | 愛Dee |
+|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Aikotoba [FT/F2] <br /> Love Words [FAN] <br /> Words of Love [LOC]                                     | Aikotoba                                                  | 愛言葉 |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Akatsuki Arrival [F2/FT] <br /> Daybreak Arrival [LOC]                                                  | Akatsuki Arrival                                          | アカツキアライヴァル |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Aku no Musume                                                                                           | Aku no Musume                                             | 悪ノ娘 |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Aku no Meshitsukai                                                                                      | Aku no Meshitsukai                                        | 悪ノ召使 |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Amatsu Kitsune                                                                                          | Amatsu Kitsune                                            | アマツキツネ |
+|    |    |    |    |    |    |    |    |    |  ✔ | Amazing Dolce                                                                                           | Amazing Dolce                                             | Amazing Dolce |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Animal Fortune-Telling                                                                                  | Doubutsu Uranai                                           | どうぶつ占い |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Arifureta Sekai Seifuku [FT] <br /> Mundane World Domination [MD] <br /> Common World Domination [FAN]  | Arifureta Sekai Seifuku                                   | ありふれたせかいせいふく |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Ashes to Ashes                                                                                          | Hai wa Hai ni                                             | ハイハハイニ |
+|    |    |    |    |    |    |    |    |    |  ✔ | Babylon                                                                                                 | Babiron                                                   | バビロン |
+|  ✔ |    |    |    |    |    |    |    |    |    | Betty The Liar [FT] <br /> Liar Betty [FAN/LIT]                                                         | Usotsuki Beti                                             | 嘘つきベティ |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Beware of the Miku Miku Germs♪ [FT] <br /> Beware of the Miku Miku Bacteria♪ [FAN]                      | Mikumiku-kin ni Gochuui♪                                  | みくみく菌にご注意♪ |
+|  ✔ |    |    |    |    |    |    |    |    |    | Black Gold                                                                                              | Burakku Goorudo                                           | ブラックゴールド |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Blackjack                                                                                               | Blackjack                                                 | Blackjack |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Black★Rock Shooter                                                                                      | Burakku★Rokku Shuutaa                                     | ブラック★ロックシューター |
+|    |    |    |    |    |    |    |    |    |  M | BLOOMING THE IDOL [sic]                                                                                 | Idol wo Sakase                                            | アイドルを咲かせ |
+|    |    |    |    |    |    |    |    |    |  ✔ | Brain Revolution Girl                                                                                   | Nounai Kakumei Gaaru                                      | 脳内革命ガール |
+|  ✔ |    |    |    |    |    |    |    |    |    | break;down [sic]                                                                                        | break;down                                                | break;down |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Break It, Break It!                                                                                     | Kowase, Kowase                                            | 壊セ壊セ |
+|  ✔ |    |  ✔ |  ✔ |    |    |    |    |    |    | Butterfly on Your Right Shoulder                                                                        | Migikata no Chou                                          | 右肩の蝶 |
+|    |    |    |    |    |    |    |    |    |  ✔ | Calc.                                                                                                   | Calc.                                                     | Calc. |
+|  ✔ |    |  ✔ |    |    |    |    |  ✔ |    |    | Cantarella                                                                                              | Kantarera                                                 | カンタレラ |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Cat Food                                                                                                | Kyatto Fudo                                               | キャットフード |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Cendrillon                                                                                              | Sandoriyon                                                | サンドリヨン |
+|    |    |    |    |    |    |    |    |    |  M | Chaining Intention                                                                                      | Chaining Intention                                        | Chaining Intention |
+|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Change Me                                                                                               | Change me                                                 | Change me |
+|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Close and Open, Demons and the Dead [F2/FT] <br /> Hold, Release; Rakshasa and Carcasses [LOC]          | Musunde Hiraite Rasetsu to Mukuro                         | 結んで開いて羅刹と骸 |
+|  ✔ |    |  ✔ |    |  ✔ |    |  ✔ |  ✔ |  ✔ |    | Clover♣Club                                                                                             | Kuroobaa♣Kurabu                                           | クローバー♣クラブ |
+|  ✔ |    |  ✔ |  ✔ |    |    |    |  ✔ |    |    | Colorful ⨯ Melody                                                                                       | Karafuru ⨯ Merodii                                        | カラフル×メロディ |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Colorful ⨯ Sexy                                                                                         | Karafuru ⨯ Sekushii                                       | カラフル×セクシィ |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Continuing Dream [F1/FT] <br /> Continuation of Dreams [LOC]                                            | Yume no tsudzuki                                          | 夢の続き |
+|  ✔ |    |    |    |    |    |    |    |    |    | Dance of Many [FT] <br /> Dance of Many -Dance of Many- [LIT]                                           | Amata no Mai -Dance of Many-                              | 数多の舞 -Dance of many- |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Dear                                                                                                    | Dear                                                      | Dear |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Dear Cocoa Girls                                                                                        | Dear Cocoa Girls                                          | Dear cocoa girls |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Decorator                                                                                               | Decorator                                                 | DECORATOR |
+|  ✔ |    |    |    |    |    |    |    |    |    | Deep Sea City Underground                                                                               | Shinkai Shiti Andaaguraundo                               | 深海シティアンダーグラウンド |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Deep Sea Girl                                                                                           | Shinkai Shoujo                                            | 深海少女 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Denparadigm [FT] <br /> Den Paradigm [FAN]                                                              | Den Paradaimu                                             | デンパラダイム |
+|    |    |    |    |    |    |    |    |    |  M | Dependence Intension                                                                                    | Dependence Intension                                      | Dependence Intension |
+|  ✔ |    |    |    |    |    |    |    |    |    | Disruptive Diva [FT] <br /> Diruptive Diva -Disruptive Diva- [LIT]                                      | Houkai Utahime -Disruptive Diva-                          | 崩壊歌姫 -disruptive diva- |
+|    |    |    |    |    |    |    |    |    |  M | Don't "My List" Me!                                                                                     | Mairisu Dame!                                             | マイリスダメー！ |
+|    |    |    |    |    |    |  ✔ |    |  ✔ |    | Doremifa Rondo                                                                                          | Doremifa Rondo                                            | ドレミファロンド |
+|  ✔ |    |  ✔ |    |    |    |    |  ✔ |    |    | Double Lariat                                                                                           | Daburu Rariatto                                           | ダブルラリアット |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Doubleganger [F2/FT] <br /> Genga Spoofing [LIT]                                                        | Narisumashi Genga                                         | なりすましゲンガー |
+|  ✔ |    |    |    |    |  E |    |    |    |    | Dream-Eating Monochrom Baku                                                                             | Yumekui Shiro Kuro Baku                                   | 夢喰い白黒バク |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |  M | Dreaming Leaf [DX/FT] <br /> Dreaming Leaf -Dreaming Words- [FAN]                                       | Dreaming Leaf -Yume Miru Kotonoha-                        | Dreaming Leaf -ユメミルコトノハ- |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | DYE [sic]                                                                                               | DYE                                                       | DYE |
+|    |    |    |    |    |    |    |    |    |  M | EAZY DANCE [sic]                                                                                        | Iijii Densu                                               | イージーデンス |
+|  ✔ |    |  D |  ✔ |    |    |  ✔ |  D |  ✔ |    | Electric Angel                                                                                          | Erekutorikku Enjeu                                        | えれくとりっく・えんじぇぅ |
+|    |    |    |    |    |    |  ✔ |    |  ✔ |    | Electric Love                                                                                           | Erekutorikku Rabu                                         | エレクトリック・ラブ |
+|  ✔ |    |    |    |    |    |    |    |    |    | Electrosaturator                                                                                        | Erekutorosachureita                                       | エレクトロサチュレイタ |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Envy Cat Walk                                                                                           | Envikyattowōku                                            | エンヴィキャットウォーク |
+|  ✔ |    |    |    |    |    |    |    |    |    | Equation+∗∗                                                                                             | Equation+∗∗                                               | Equation+∗∗ |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Erase or Zero                                                                                           | erase or zero                                             | erase or zero |
+|    |    |    |    |    |    |    |    |    |  ✔ | Even a Kunoichi Needs Love [DX] <br /> Even as a Female Ninja, I Want to Love [FAN]                     | Kunoichi Demo Koi ga Shitai                               | クノイチでも恋がしたい |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Far Away                                                                                                | Far Away                                                  | Far Away |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Finder (DSLR remix - re:edit) [sic]                                                                     | Faindaa (DSLR remix- re:edit)                             | ファインダー(DSLR remix - re:edit) |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Fire⊚Flower                                                                                             | Fire⊚Flower                                               | Fire⊚Flower |
+|  ✔ |    |    |    |    |    |    |    |    |    | Francisca                                                                                               | Furanshisuka                                              | フランシスカ |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Freely Tomorrow [FT] <br /> FREELY TOMORROW [F1/DX]                                                     | FREELY TOMORROW                                           | FREELY TOMORROW |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | from Y to Y [sic]                                                                                       | from Y to Y                                               | from Y to Y |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Gemini                                                                                                  | Jiemini                                                   | ジェミニ |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Gigantic Girl                                                                                           | Kyodai Shoujo                                             | 巨大少女 |
+|    |    |    |    |    |    |    |    |    |  M | Gigantic O.T.N. [DX] <br /> Gigantic P.N.S. [FAN]                                                       | Gigantikku O.T.N                                          | ギガンティックO.T.N |
+|  ✔ |    |    |    |    |    |    |    |    |    | Gizmo                                                                                                   | Gizumo                                                    | ぎずも |
+|  ✔ |    |    |    |    |    |    |    |    |    | Glasses                                                                                                 | Megane                                                    | MEGANE |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Glory 3usi9 [F2/FT] <br /> Glory Music [LIT]                                                            | Glory 3usi9                                               | Glory 3usi9 |
+|    |    |    |    |    |    |  ✔ |    |  ✔ |    | glow [sic]                                                                                              | glow                                                      | glow |
+|    |    |  D |  D |    |    |    |    |    |    | GO MY WAY [sic]                                                                                         | GO MY WAY                                                 | GO MY WAY |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | God-Tier Tune [F1/FT] <br /> The Divine Comedy [LOC]                                                    | Kamikyoku                                                 | 神曲 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Gothic and Loneliness ~I'm the Very Diva~                                                               | Gothic and Loneliness ~I'm the Very Diva~                 | Gothic and Loneliness ~I'm the very DIVA~ |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |  M | Grumpy Waltz [FT] <br /> Bad Mood Waltz [FAN]                                                           | Fukigen Warutsu                                           | フキゲンワルツ |
+|  ✔ |    |    |    |    |    |    |    |    |    | Hanamai Tsukuyomi Tan                                                                                   | Hanamai Tsukuyomi Tan                                     | 花舞月詠譚 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Hand In Hand                                                                                            | Hand in Hand                                              | Hand in Hand |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Happy Synthesizer                                                                                       | Happii Shinsesaiza                                        | ハッピーシンセサイザ |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Hello/How are you?                                                                                      | Haro/Hawayu                                               | ハロ/ハワユ |
+|  ✔ |    |    |  ✔ |    |    |  ✔ |    |  ✔ |    | Hello, Planet.                                                                                          | ∗Haroo, Puranetto.                                        | ＊ハロー、プラネット。 |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Hello, Worker                                                                                           | Hello, Worker                                             | Hello, Worker |
+|  ✔ |    |    |    |    |    |    |    |    |    | Here Comes Karakasa-san                                                                                 | Karakasa-san ga Tooru                                     | 唐傘さんが通る |
+|  ✔ |    |    |    |    |    |    |    |    |    | Hibikase [FT] <br /> Resonate [LOC]                                                                     | Hibikase                                                  | ヒビカセ |
+|  ✔ |    |    |    |    |    |    |    |    |    | High School Days - DIVA EDIT [sic]                                                                      | Haisukuuru Days - DIVA EDIT                               | ハイスクール Days - DIVA EDIT |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Hm? Ah, Yes.                                                                                            | E? Aa, Sou.                                               | え？あぁ、そう。 |
+|    |    |    |    |    |    |    |    |    |  ✔ | Holy Lance Explosion Boy                                                                                | Seisou Bakuretsu Booi                                     | 聖槍爆裂ボーイ |
+|  ✔ |    |    |    |    |    |    |    |    |    | Holy Star -2010 Diva Mix--                                                                              | Holy Star -2010 Diva Mix-                                 | Holy Star -2010 DIVA mix- |
+|    |    |    |    |    |    |    |    |    |  ✔ | Humorous Dream of Mrs. Pumpkin [DX] <br /> Mrs. Pumpkin's Comical Dream [FAN]                           | Mrs. Pumpkin no Kokkei na Yume                            | Mrs.Pumpkinの滑稽な夢 |
+|  ✔ |    |    |    |    |    |    |    |    |    | How'd It Get To Be Like This? [FT] <br /> How Did This Happen? [FAN]                                    | Doushite Kou Natta                                        | どうしてこうなった |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | I Really Do Understand [FT] <br /> I Understand the Truth [FAN]                                         | Honto wa Wakatteru                                        | ほんとは分かってる |
+|  ✔ |  ✔ |  ✔ |    |    |  A |    |  ✔ |    |    | I'll Miku-Miku You♪ (For Reals) [F2/FT] <br /> I'll Make You Do the Miku Miku♪ (You'll Do It) [FAN]     | Miku Miku ni Shite Ageru♪ (Shite Yan yo)                  | みくみくにしてあげる♪【してやんよ】 |
+|  ✔ |  ✔ |  D |  ✔ |    |    |    |    |    |    | I'm Your Diva                                                                                           | Anata no Utahime                                          | あなたの歌姫 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Idol Radio (Game Edit) [FT] <br /> Wireless Idol (Game Edit) [FAN]                                      | Guuzou Musen (Game Edit)                                  | 偶像無線(Game Edit) |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Ievan Polkka                                                                                            | Ievan Polkka                                              | Ievan Polkka |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Innocence                                                                                               | Innocence                                                 | Innocence |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Interviewer                                                                                             | Intabyuaa                                                 | インタビュアー |
+|    |    |    |    |    |    |  ✔ |    |  ✔ |    | Invisible                                                                                               | Inbijiburu                                                | インビジブル |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Iroha Uta [FT] <br /> ABC Song [LOC]                                                                    | Iroha Uta                                                 | いろは唄 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Iya Iya Seijin [DA] <br /> No, No, Alien [LOC]                                                          | Iya Iya Seijin                                            | イヤイヤ星人 |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Jaded [FT] <br /> The Rebel [FAN] <br /> Contradictory Person [LIT]                                     | Hinekuremono                                              | ひねくれ者 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Jegemu Sequencer [FT] <br /> Blossom Sequencer [FAN]                                                    | Jugemu Shiikensaa                                         | ジュゲムシーケンサー |
+|  ✔ |    |  ✔ |  ✔ |    |    |    |  D |    |    | Just Be Friends                                                                                         | Just Be Friends                                           | Just Be Friends |
+|    |    |    |    |    |  ✔ |    |    |    |    | Kagamine HachiHachi Flower Fight                                                                        | Kagamine Hachihachi Hana Gassen                           | 鏡音八八花合戦 |
+|    |    |    |    |    |    |    |  ✔ |    |    | Kagerou Daze [F2] <br /> Heat Haze Daze [LOC]                                                           | Kagerou Deizu                                             | カゲロウデイズ |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Karakuri Pierrot [FT] <br /> Clockwork Clown [F2] <br /> Clown's Trick [LOC]                            | Karakuri Pierrot                                          | からくりピエロ |
+|    |    |    |    |    |    |    |    |    |  M | Kiddie War [DX] <br /> Childish War [FAN]                                                               | Okochama Sensou                                           | おこちゃま戦争 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Kimi Ni [FT] <br /> To You [LIT]                                                                        | Kimi ni                                                   | キミに |
+|  ✔ |    |    |    |    |    |    |    |    |    | Kipple Industry, Inc.                                                                                   | Kipuru·Indasutorii                                        | キップル・インダストリー |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Knife                                                                                                   | Knife                                                     | Knife |
+|  ✔ |    |    |    |    |    |    |    |    |    | Knight of Light                                                                                         | Naito Obu Raito                                           | ナイト・オブ・ライト |
+|    |    |    |    |    |    |  ✔ |    |  ✔ |    | KONEKO NO PAYAPAYA [sic]                                                                                | KONEKO NO PAYAPAYA                                        | 子猫のパヤパヤ |
+|  ✔ |    |  ✔ |    |    |    |  ✔ |  ✔ |  ✔ |    | Kokoro [M2/F2/FT] <br /> Heart [LIT]                                                                    | Kokoro                                                    | ココロ |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Last Night, Good Night                                                                                  | Last Night, Good Night                                    | Last Night, Good Night |
+|  ✔ |    |    |    |    |    |    |    |    |    | Leia                                                                                                    | Leia                                                      | Leia |
+|  ✔ |    |    |    |    |    |    |    |    |    | Let Me Lose Myself in the Black Note [FT] <br /> Drowned in the Black Note [FAN]                        | Burakku Nooto ni Obore Sasete                             | ブラックノートに溺れさせて |
+|  ✔ |    |    |    |    |    |    |    |    |    | LIKE THE WIND [sic]                                                                                     | LIKE THE WIND                                             | LIKE THE WIND |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |  ✔ | LOL -lots of laugh- [sic]                                                                               | LOL -lots of laugh-                                       | LOL -lots of laugh- |
+|  ✔ |    |  ✔ |  ✔ |    |    |    |  D |    |    | Look This Way, Baby [F2/FT] <br /> Come Here, Baby [LOC]                                                | Kocchi Muite Baby                                         | こっち向いて Baby |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Love-Colored Ward                                                                                       | Koiiro Byouto                                             | 恋色病棟 |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Love-Hate                                                                                               | Suki, Kirai                                               | スキキライ |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Love is War                                                                                             | Koi wa Sensou                                             | 恋は戦争 |
+|    |    |    |    |    |    |    |    |    |  ✔ | Love Song                                                                                               | Ai no Uta                                                 | 愛の詩 |
+|    |    |    |    |    |    |    |    |    |  ✔ | Love Trial                                                                                              | Ren'ai Saiban                                             | 恋愛裁判 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Love's Note [FT] <br /> Love Note [FAN]                                                                 | Koi Nooto                                                 | 恋ノート//// |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Lover's Suicide Oblivion [FT] <br /> Love Suicide in Oblivion [FAN]                                     | Boukyaku Shinjuu                                          | 忘却心中 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Lucid Dreaming                                                                                          | Rushiddo Doriimingu                                       | ルシッドドリーミング |
+|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Luka Luka ★ Night Fever                                                                                 | Ruka Ruka ★ Naito Fiibaa                                  | ルカルカ★ナイトフィーバー |
+|  ✔ |    |    |    |    |    |    |    |    |    | Magical Sound Shower                                                                                    | Magical Sound Shower                                      | Magical Sound Shower |
+|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Magnet                                                                                                  | magnet                                                    | magnet |
+|  ✔ |    |    |    |    |    |    |    |    |    | maigo life [sic] [FT] <br /> Stray Life [FAN]                                                           | Maigo Raifu                                               | 迷子ライフ |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |  D |    |    | Marginal                                                                                                | Maajinaru                                                 | マージナル |
+|  ✔ |    |    |    |    |    |    |    |    |    | Master of Puppets                                                                                       | Masutaa Obu Papettsu                                      | マスターオブパペッツ |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Matryoshka                                                                                              | Matryoshka                                                | マトリョシカ |
+|  ✔ |    |    |    |    |    |    |    |    |    | Meiteki Cybernetics [FT] <br /> Stray Cybernetics [FAN]                                                 | Meiteki Saibanetikkusu                                    | 迷的サイバネティックス |
+|  ✔ |    |    |    |  ✔ |  ✔ |  ✔ |    |  ✔ |    | Melancholic                                                                                             | Merankorikku                                              | メランコリック |
+|  ✔ |    |    |    |    |    |    |    |    |    | Mellow Yellow                                                                                           | Mellow Yellow                                             | Mellow Yellow |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | melody... [sic]                                                                                         | melody...                                                 | melody... |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |  ✔ |    |    | Melt                                                                                                    | Meruto                                                    | メルト |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Meteor                                                                                                  | Meteo                                                     | メテオ |
+|  ✔ |  ✔ |  ✔ |    |    |  A |    |  ✔ |    |  M | Miracle Paint                                                                                           | Mirakuru Peinto                                           | ミラクルペイント |
+|  ✔ |    |    |    |    |    |    |    |    |    | Monochrome∞Blue Sky                                                                                     | Monokuro∞Burūsukai                                        | モノクロ∞ブルースカイ |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | moon [sic]                                                                                              | moon                                                      | moon |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Mousou Sketch [M1/FT] <br /> Delusion Sketch [FAN]                                                      | Mousou Suketchi                                           | 妄想スケッチ |
+|    |    |    |    |    |    |    |    |    |  ✔ | Name of the Sin                                                                                         | Tsumi no Namae                                            | 罪の名前 |
+|    |    |    |    |    |    |    |    |    |  M | Nebula                                                                                                  | Nebula                                                    | Nebula |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Negaposi∗Continues                                                                                      | Negaposi∗Kontinyuzu                                       | ネガポジ*コンティニューズ |
+|  ✔ |    |    |    |    |    |    |    |    |    | NekoMimi Archive                                                                                        | Nekomimi Aakaibu                                          | ネコミミアーカイブ |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | NekoMimi Switch                                                                                         | Nekomimi Suitchi                                          | ねこみみスイッチ |
+|  ✔ |    |    |    |    |    |    |    |  ✔ |    | Nice To Meet You, Mr. Earthling                                                                         | Hajimemashite Chikyuujin-san                              | はじめまして地球人さん |
+|  ✔ |    |    |    |    |    |    |    |    |    | Nightmare ☆ Party Night                                                                                 | Naitomea☆Paatii Naito                                     | ナイトメア☆パーティーナイト |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | No Logic                                                                                                | No Logic                                                  | No Logic |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Nostalogic                                                                                              | Nostalogic                                                | Nostalogic |
+|  ✔ |    |    |    |    |    |    |    |    |    | Now Choose [FT] <br /> Now, Which? [FAN]                                                                | Saa, Docchi?                                              | さあ、どっち？ |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Nyanyanyanyanyanyanya!                                                                                  | Nyanyanyanyanyanyanya!                                    | Nyanyanyanyanyanyanya! |
+|  ✔ |    |    |    |    |    |    |    |    |    | Odds & Ends [F1/FT]                                                                                     | Odds & Ends                                               | ODDS&ENDS |
+|  ✔ |    |    |    |    |    |    |    |    |    | Oha-Yo-Del [FT] <br /> Good Morning Yodel [LOC]                                                         | Owayooderu                                                | おはヨーデル
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | On The Rocks [FT] <br /> on the rocks [sic] [M1]                                                        | On The Rocks                                              | On The Rocks |
+|  ✔ |    |    |    |    |    |    |    |    |    | One-Sided Love Samba [FT] <br /> Unrequited Love Samba [FAN]                                            | Kataomoi Sanba                                            | 片想いサンバ |
+|  ✔ |    |    |    |    |    |    |    |    |    | Out of Eden                                                                                             | Auto Obu Eden                                             | アウト オブ エデン |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |  ✔ |    |    | Packaged [F2/FT]                                                                                        | Packaged                                                  | Packaged |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Palette                                                                                                 | Palette                                                   | Palette |
+|  ✔ |    |    |    |    |    |    |    |    |    | Pane Dhiria                                                                                             | Pane Dhiria                                               | Pane dhiria |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Paradichlorobenzene                                                                                     | Parajikurorobenzen                                        | パラジクロロベンゼン |
+|  ✔ |    |    |    |    |    |    |    |    |    | Paris Cinema Girl [FT] <br /> Paris Movie Girl [FAN]                                                    | Pari Eiga Shoujo                                          | 巴里映画少女 |
+|    |    |    |    |    |    |    |    |    |  ✔ | Patchwork Staccato                                                                                      | Tsugihagi Sutakkaato                                      | ツギハギスタッカート |
+|  ✔ |    |    |    |    |    |    |    |    |    | Perico Space Shipper                                                                                    | Periko Supeesu Shipaa                                     | ペリコ・スペースシッパー |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | PIANO∗GIRL [sic]                                                                                        | PIANO∗GIRL                                                | PIANO∗GIRL |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Piano x Forte x Scandal                                                                                 | Piano x Forute x Sukyandaru                               | ピアノxフォルテxスキャンダル |
+|  ✔ |    |    |    |    |    |    |    |    |    | Pink Moon                                                                                               | Pinku Muun                                                | ピンクムーン |
+|    |    |    |    |    |    |    |    |    |  M | Pincostique Luv [DX] <br /> Pink Stick Luv [FAN]                                                        | Pinko Sutikku Luv                                         | ぴんこすてぃっくLuv |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Pinky Swear                                                                                             | Yubikiri                                                  | 指切り |
+|  ✔ |    |  ✔ |    |    |  D |    |    |    |    | Po Pi Po [FT] <br /> Vegetable Juice [FAN]                                                              | PoPiPo                                                    | ぽっぴっぽ ー |
+|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | Promise                                                                                                 | Promise                                                   | Promise |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Puzzle                                                                                                  | Pazuru                                                    | パズル |
+|  ✔ |    |    |    |    |    |    |    |    |    | Quartet of Multiple Futures -Quartet Theme- [FT] <br /> Multiple Future Quartet -Quartet Theme- [FAN]   | Tajuu Mirai no Karutetto -Quartet Theme-                  | 多重未来のカルテット -Quartet Theme- |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Rain with a Chance of Sweet∗Drops [FT] <br /> Sweet∗Drops after the Rain [FAN]                          | Ame Nochi Sweet∗Drops                                     | 雨のちSweet*Drops |
+|    |    |    |    |    |    |    |    |    |  ✔ | Raspberry ∗ Monster                                                                                     | Razuberii ∗ Monsutaa                                      | ラズベリー＊モンスター |
+|    |    |  D |  D |    |    |    |    |    |    | relations [sic]                                                                                         | relations                                                 | relations |
+|  ✔ |    |    |    |    |    |    |    |    |    | Remote Controller                                                                                       | Rimokon                                                   | リモコン |
+|  ✔ |  ✔ |  D |  ✔ |    |    |    |    |    |    | Requiem for the Phantasma [FT] <br /> Golden Holy Night Rotting into the Frost and Snow [LOC]           | Kogane no Seiya Sousetsu ni Kuchite                       | 金の聖夜霜雪に朽ちて |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | reverse rainbow [sic]                                                                                   | Sakasama Reinboo                                          | 逆さまレインボー |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Rin Rin Signal -Append Mix--                                                                            | Rin Rin Shigunaru -Append Mix-                            | リンリンシグナル -Append Mix- |
+|  ✔ |    |    |    |    |  E |    |    |    |    | Rin-chan Now!                                                                                           | Rin-chan Nau!                                             | リンちゃんなう! |
+|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Rolling Girl                                                                                            | Roringaru                                                 | ローリンガール |
+|  ✔ |    |  ✔ |    |    |    |  ✔ |  ✔ |  ✔ |    | Romeo and Cinderella                                                                                    | Romio to Shinderera                                       | ロミオとシンデレラ |
+|  ✔ |    |    |    |    |    |    |  D |    |    | Rosary Pale                                                                                             | Rosary Pale                                               | Rosary Pale |
+|  ✔ |    |  ✔ |  ✔ |    |    |    |  ✔ |    |    | Roshin Yukai [F2/FT] <br /> Meltdown [FAN] <br /> Nuclear Fusion [LOC]                                  | Roshin Yukai                                              | 炉心融解 |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Sadistic.Music∞Factory                                                                                  | Sadistic.Music∞Factory                                    | Sadistic.Music∞Factory |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Saihate [FT] <br /> The Farthest Ends [FAN]                                                             | Saihate                                                   | サイハテ |
+|  ✔ |  ✔ |    |    |    |    |    |  ✔ |    |    | Sakura no Ame [FT] <br /> Sakura Rain [F2]                                                              | Sakura no Ame                                             | 桜ノ雨 |
+|    |    |    |    |    |    |    |    |    |  ✔ | Satisfaction                                                                                            | Satisfaction                                              | Satisfaction |
+|  ✔ |    |    |    |    |    |    |    |    |    | Sayonara, Goodbye                                                                                       | Sayonara·Gubbai                                           | サヨナラ・グッバイ |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Secret Police                                                                                           | Himitsu Keisatsu                                          | 秘密警察 |
+|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Sekiranun Graffiti [F2/FT] <br /> Cumulonimbus Graffiti [LIT]                                           | Sekiranun Graffiti                                        | 積乱雲グラフィティ |
+|  ✔ |    |    |    |    |  E |  ✔ |    |  ✔ |    | Senbonzakura                                                                                            | Senbonzakura                                              | 千本桜 |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Shake It!                                                                                               | Shake It!                                                 | shake it! |
+|    |    |    |    |    |    |    |    |    |  ✔ | Sharing The World                                                                                       | Sharing The World                                         | Sharing The World |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | SING&SMILE [sic]                                                                                        | SING&SMILE                                                | SING&SMILE |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Skeleton Orchesta and Lillia                                                                            | Gaikotsu Gakudan to Lilia                                 | 骸骨楽団とリリア |
+|    |    |    |    |    |    |    |    |    |  ✔ | Slow Motion                                                                                             | Suroo Mooshon                                             | すろぉもぉしょん |
+|  ✔ |    |    |    |    |    |    |    |    |    | slump [sic]                                                                                             | slump                                                     | slump |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Snowman                                                                                                 | Sunooman                                                  | スノーマン |
+|  ✔ |    |    |    |    |    |    |    |    |    | So Much Loving You★ -DIVA Edit- [sic]                                                                   | So Much Loving You★ -DIVA Edit-                           | So much loving you★ -DIVA Edit-|
+|  ✔ |    |    |    |    |    |    |    |    |    | Soiyassa                                                                                                | Soiyassaa                                                 | そいやっさぁ
+|    |    |    |    |    |    |    |    |    |  ✔ | Solitary Envy [DX] <br /> Solitary Hide & Seek Envy [FAN]                                               | Hitorinbo Envy                                            | 独りんぼエンヴィー |
+|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Solitude's End                                                                                          | Kodoku no Hate                                            | 孤独の果て |
+|  ✔ |    |    |    |    |    |    |    |    |    | Song of Eternity -DIVAMIX- [sic] <br /> Eternity -Song of Eternity- -DIVAMIX- [LIT]                     | Yuukyuu -Song of Eternity-                                | 悠久-Song of Eternity- |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Song of Life                                                                                            | Inochi no Uta                                             | いのちの歌 |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | Sound                                                                                                   | Saundo                                                    | サウンド |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | soundless voice                                                                                         | soundless voice                                           | soundless voice |
+|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | SPiCa -39's Giving Day Edition- [sic]                                                                   | SPiCa -39's Giving Day Edition-                           | SPiCa -39's Giving Day Edition- |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |    | Star Story                                                                                              | Star Stroy                                                | Star Story |
+|  ✔ |    |  D |  ✔ |    |    |    |    |    |    | Stardust Utopia                                                                                         | Nayuta no Kanata Made                                     | 那由他の彼方まで |
+|  ✔ |    |    |  ✔ |    |    |    |    |    |    | Starduster                                                                                              | Starduster                                                | Starduster |
+|  ✔ |    |  D |  ✔ |    |    |    |    |    |    | StargazeR [sic]                                                                                         | StargazeR                                                 | StargazeR |
+|  ✔ |    |    |    |    |    |    |    |    |    | Starlite★Lydian                                                                                         | Starlite★Lydian                                           | Starlite★Lydian |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Stay with Me                                                                                            | Stay With Me                                              | Stay with me |
+|  ✔ |    |    |    |    |    |    |    |    |    | Step Forward                                                                                            | Suteppu Fowaado                                           | ステップフォワード |
+|    |    |    |    |    |    |    |    |    |  ✔ | Strangers                                                                                               | Strangers                                                 | Strangers |
+|    |    |    |    |    |    |    |    |    |  ✔ | Streaming Heart                                                                                         | Sutoriimingu Haato                                        | ストリーミングハート |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Strobe Nights                                                                                           | Sutorobonaitsu                                            | ストロボナイツ |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Summer Idol                                                                                             | Samaaidoru                                                | サマーアイドル |
+|  ✔ |    |    |    |    |  E |    |    |    |  M | Sweet Devil                                                                                             | Sweet Devil                                               | Sweet Devil |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Sweet Magic                                                                                             | Suiito Majikku                                            | スイートマジック |
+|  ✔ |    |    |    |    |    |    |    |    |    | SYMPHONIC DIVE - DIVA FT edit - [sic]                                                                   | SYMPHONIC DIVE - DIVA FT edit -                           | SYMPHONIC DIVE - DIVA FT edit - |
+|  ✔ |    |    |    |    |    |    |    |    |    | Systematic Love                                                                                         | Shisutematiku ravu                                        | システマティック・ラヴ |
+|    |    |    |    |    |    |    |    |    |  ✔ | Tale of Deep-Sea Lily [DX] <br /> Sea Lily Deep Sea Tale [FAN]                                          | Umiyuri Kaitei Tan                                        | ウミユリ海底譚 |
+|  ✔ |    |    |    |    |  E |    |    |    |    | Tell Your World                                                                                         | Tell Your World                                           | Tell Your World |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Tengaku [F1/DX/FT] <br /> Music of Heavens [LOC]                                                        | Tengaku                                                   | 天樂 |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | Terekakushi Shishunki                                                                                   | Terekakushi Shishunki                                     | テレカクシ思春期 |
+|  ✔ |    |    |    |    |    |    |    |    |    | That One Second in Slow Motion                                                                          | Sono Ichibyou Suroo Mooshon                               | その一秒 スローモーション |
+|  ✔ |  ✔ |  ✔ |  ✔ |    |    |    |    |    |  M | The Disappearance of Hatsune Miku                                                                       | Hatsune Miku no Shoushitsu                                | 初音ミクの消失 |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |  ✔ | The First Sound [DX/FT] <br /> The First Tone [LOC]	                                                    | Hajimete no Oto                                           | ハジメテノオト |
+|  ✔ |    |  ✔ |  ✔ |    |    |    |  ✔ |    |  M | The Intense Voice of Hatsune Miku [F2/DX/FT] <br /> The Singing Passion of Hatsune Miku [LOC]           | Hatsune Miku no Gekishou                                  | 初音ミクの激唱 |
+|    |    |    |    |    |    |    |    |    |  ✔ | The Lost One's Weeping                                                                                  | Rosuto Wan no Goukoku                                     | ロストワンの号哭 |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | The MMORPG Addict's Theme [F1/FT] <br /> Online Game Addicts Sprechchor [LOC]                           | Netoge Haijin Supurekoor                                  | ネトゲ廃人シュプレヒコール |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | The secret garden                                                                                       | The secret garden                                         | The secret garden |
+|  ✔ |    |    |    |    |    |    |    |    |    | The Snow White Princess is...                                                                           | Shiroi Yuki no Purinsesu wa                               | 白い雪のプリンセスは |
+|  ✔ |    |    |    |    |    |    |    |    |    | The Star Maker [FT] <br />  A Person Who Makes Stars [FAN]                                              | Hoshi O Tsukuru Hito                                      | ほしをつくるひと |
+|  ✔ |    |    |    |    |    |    |    |    |    | The Two of Us - Futaride [FT] <br /> Together [FAN]                                                     | Futari de.                                                | ふたりで。 |
+|  ✔ |  ✔ |  ✔ |    |    |  A |  ✔ |  ✔ |  ✔ |    | The World is Mine                                                                                       | Waarudo Izu Main                                          | ワールドイズマイン |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | This is the Happiness and Peace of Mind Committee                                                       | Kochira, Koufuku Anshin Iinkai Desu                       | こちら、幸福安心委員会です |
+|    |    |    |    |    |    |    |    |    |  M | This Messed-Up Wonderful World Exists for Me                                                            | Kono Fuzaketa Subarashiki Sekai wa, Boku no Tame ni Aru   | このふざけた素晴らしき世界は、僕の為にある |
+|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | Though My Song Has No Form                                                                              | Uta ni Katachi wa Nai Keredo                              | 歌に形はないけれど |
+|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Thousand Year Solo (Diva Edit)                                                                          | Sennen no Dokusou Ka (DIVA Edit)                          | 千年の独奏歌(DIVA Edit) |
+|  ✔ |    |  D |  ✔ |    |    |    |    |    |    | Time Limit                                                                                              | Taimu Rimitto                                             | タイムリミット |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Time Machine                                                                                            | Taimu Mashin                                              | タイムマシン |
+|  ✔ |    |    |  ✔ |    |    |    |  D |    |    | To the End of Infinity [F2/FT] <br /> To Beyond a Duodecillion [LIT]                                    | Nayuta no Kanata Made                                     | 那由他の彼方まで |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Tokyo Teddy Bear                                                                                        | Tokyo Tedibea                                             | 東京テディベア |
+|  ✔ |    |    |    |    |  E |    |    |    |    | Torinokocity [FT] <br /> Urbandonment [F1] <br /> Left-Behind City [LOC] <br /> Torinoko City [LIT]     | Torinokoshiti                                             | トリノコシティ |
+|  ✔ |    |    |    |    |    |    |    |    |    | Transparent Watercolors [FT] <br /> Watercolors [FAN]                                                   | Toumei Suisai                                             | 透明水彩 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Travel to the Other Side of the Moon [FT] <br /> Travel Beyond the Moon [FAN]                           | Tsuki Mukou Made no Toraberu                              | 月向うまでのトラベル |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Tricolore Airline                                                                                       | Torikorooru Ea Rain                                       | トリコロール・エア・ライン |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |    | Two Breaths Walking                                                                                     | Nisoku Hokou                                              | 二息歩行 |
+|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |  M | Two-Sided Lovers [F2/DX/FT] <br /> Two-Face Lovers [FAN]                                                | Uraomote Rabazu                                           | 裏表ラバーズ |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |  M | Unhappy Refrain                                                                                         | Anhappi Rifurein                                          | アンハッピーリフレイン |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Updating My Love List? [FT] <br /> Updating Your Love List? [FAN]                                       | Rabu Risuto Koushinchuu?                                  | ラブリスト更新中？ |
+|    |    |    |    |    |    |    |    |    |  ✔ | Urotander, Underhanded Rangers [DX] <br /> Coward Squadron Urotander [FAN]                              | Hikyou Sentai Urotander                                   | 卑怯戦隊うろたんだー |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | Velvet Arabesque                                                                                        | Birodo Arabesuku                                          | 天鵞絨アラベスク |
+|    |    |    |    |    |    |    |    |    |  M | Viva Happy                                                                                              | Biba Hapi                                                 | ビバハピ |
+|  ✔ |  ✔ |    |    |    |    |    |    |    |  M | VOC@LOID in Love [sic]                                                                                  | Koi Suru VOC@LOID                                         | 恋スルVOC@LOID |
+|  ✔ |    |  ✔ |    |    |    |    |    |    |    | VOiCE -DIVA MIX- [sic]                                                                                  | VOiCE -DIVA MIX-                                          | VOiCE -DIVA MIX- |
+|    |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Watashi no jikan                                                                                        | Watashi no jikan                                          | 私の時間 |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | Weekender Girl                                                                                          | Weekender Girl                                            | Weekender Girl |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | What Do You Mean!?                                                                                      | Doo iu koto na no!?                                       | どういうことなの！？ |
+|  ✔ |    |  ✔ |    |    |    |    |  D |    |    | When First Love Ends                                                                                    | Hajimete no Koi ga Owaru Toki                             | 初めての恋が終わる時 |
+|  ✔ |  ✔ |  ✔ |    |    |    |    |    |    |    | White Dove                                                                                              | Hato                                                      | ハト |
+|  ✔ |    |    |  ✔ |    |    |    |  ✔ |    |    | Wintry Winds                                                                                            | Tsugai Kogarashi                                          | 番凩 |
+|  ✔ |    |    |    |    |    |    |    |    |    | Wolf Girl                                                                                               | Ookami Gaaru                                              | オオカミガール |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | World's End Dance Hall                                                                                  | Waruzuendo Dansuhoru                                      | ワールズエンド・ダンスホール |
+|  ✔ |    |    |    |    |  ✔ |    |    |    |    | World's End Umbrella                                                                                    | WORLD'S END UMBRELLA                                      | WORLD'S END UMBRELLA |
+|  ✔ |    |  ✔ |  ✔ |    |    |    |  D |    |    | Yellow                                                                                                  | Yellow                                                    | Yellow |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Your Body Temperature                                                                                   | Kimi no Taion                                             | 君の体温 |
+|  ✔ |    |    |    |  ✔ |    |  ✔ |    |  ✔ |    | Yumeyume                                                                                                | Yumeyume                                                  | ゆめゆめ |
+|  ✔ |    |    |    |    |    |    |    |    |    | ZIGG-ZAGG [sic]                                                                                         | ZIGG-ZAGG                                                 | ZIGG-ZAGG |
+|    |    |    |    |    |    |  ✔ |    |  ✔ |  M | 1 2 Fanclub [M2/DX] <br /> Yī Èr Fanclub [LIT]                                                          | Ii Aru Fankurabu                                          | いーあるふぁんくらぶ |
+|  ✔ |    |    |    |    |  A |  ✔ |    |  ✔ |    | 1/6 -out of the gravity- [sic]                                                                          | 1/6 -out of the gravity-                                  | 1/6 -out of the gravity- |
+|  ✔ |    |    |    |    |    |  ✔ |    |  ✔ |    | 1925                                                                                                    | 1925                                                      | 1925 |
+|  ✔ |    |    |    |    |    |    |  ✔ |    |  M | 2D Dream Fever                                                                                          | Nijigen Doriimu Fiibaa                                    | 二次元ドリームフィーバー |
+|  ✔ |    |    |    |    | AD |    |    |    |    | 39                                                                                                      | 39                                                        | 39 |
