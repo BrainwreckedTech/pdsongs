@@ -1,7 +1,6 @@
 Notes
 -----
 
--   In the case of staggered releases on multiple systems, the listed release date reflects the earliest release.
 -   Project Mirai 2 includes all the songs from Project Mirai 1.
 -   Project Mirai Deluxe is an updated version of Project Mirai 2.
 -   Future Tone is the name given to the update of Project Diva Arcade that introduced the slide bar. For purposes here, "Arcade" will refer to the arcade and "Future Tone" will refer to the home port on the PS4.
